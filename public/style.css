@@ -3,13 +3,45 @@
   }
   
   body {
-    background-image: url('images/alanbg.webp'); 
-    background-size: cover;
     font-family: 'Oswald';
     padding: 60px;
     text-align: center;
     color: white;
     padding-left: 175px;
+  }
+
+  #main1 {
+    background-image: url('images/alanbg.webp'); 
+    background-size: cover;
+    color: white;
+  }
+
+  #main2 {
+    background-image: url('images/backgroundthing.webp'); 
+    background-size: cover;
+    color: black;
+  }
+
+  #main3 {
+    background-image: url('images/fnfreal.webp'); 
+    background-size: cover;
+    color: white;
+  }
+
+  #main4 {
+    background-image: url('images/isntthatthedeservedbg.webp'); 
+    background-size: cover;
+    color: black;
+  }
+
+  #main5 {
+    background-image: url('images/backgroundthing.webp'); 
+    background-size: cover;
+    color: black;
+  }
+
+  #main6 {
+    color: black;
   }
   
   .sidenav {
