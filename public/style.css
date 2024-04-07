@@ -1,46 +1,58 @@
 * {
-    box-sizing: border-box;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
   }
   
   body {
-    font-family: 'Oswald';
-    padding: 60px;
+    font-family: Oswald;
     text-align: center;
     color: white;
-    padding-left: 175px;
   }
 
   #main1 {
+    padding: 60px;
     background-image: url('images/alanbg.webp'); 
     background-size: cover;
     color: white;
   }
 
   #main2 {
+    padding: 60px;
+    margin-top: 0;
     background-image: url('images/backgroundthing.webp'); 
     background-size: cover;
     color: black;
   }
 
   #main3 {
+    padding: 60px;
+    margin-top: 0;
     background-image: url('images/fnfreal.webp'); 
     background-size: cover;
     color: white;
   }
 
   #main4 {
+    padding: 60px;
+    margin-top: 0;
     background-image: url('images/isntthatthedeservedbg.webp'); 
     background-size: cover;
     color: black;
   }
 
   #main5 {
+    padding: 60px;
+    margin-top: 0;
     background-image: url('images/backgroundthing.webp'); 
     background-size: cover;
     color: black;
   }
 
   #main6 {
+    padding: 60px;
+    margin-top: 0;
     color: black;
   }
   
