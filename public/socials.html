@@ -17,15 +17,32 @@
           text-align: center;
           color: white;
         }
-        
-        .column {
-          float: left;
-          width: 50%;
-          paddint: 5%;
+
+        #body {
+          padding: 5%;
+          max-width: 900px;
+          margin-left: auto;
+          margin-right: auto;
         }
-        
+
+        a:link {
+          color: rgb(143, 208, 255);
+          text-decoration: none;
+        }
+
+        a:visited {
+          color: rgb(143, 208, 255);
+          text-decoration: none;
+        }
+
         img {
-          border-radius: 5%;
+          padding: 30px;
+          border-radius: 60px;
+        }
+
+        .container {
+          width: 50%;
+          float: left;
         }
     </style>
     <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -37,8 +54,22 @@
   </head>
   <body>
     <div id="includeHtml"></div>
-    <h1>&nbsp;</h1>
-    <a href="">Twitter</a>
-    <h1>&nbsp;</h1>
+    <section id="body">
+      <h1>Here's where you can find us!</h1>
+      <h1>&nbsp;</h1>
+      <div class="container">
+        <a href="https://twitter.com/AnimationVsFNF">
+          <h1>TWITTER</h1>
+          <img src="images/twitter.png" width=200px>
+        </a>
+      </div>
+      <div class="container" float=right>
+        <a href="https://discord.com/invite/Gaad8f2PUt">
+          <h1>COMMUNITY DISCORD</h1>
+          <img src="images/discord.png" width=200px>
+        </a>
+      </div>
+      <h1>&nbsp;</h1>
+    </section>
   </body>
 </html>
