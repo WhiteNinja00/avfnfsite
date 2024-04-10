@@ -1,75 +1,63 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>AvFNF</title>
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Oswald:400,700" media="screen"> 
-    <style>
-        * {
-          box-sizing: border-box;
-        }
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Oswald:400,700" media="screen"> 
+<style>
+  * {
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+    }
 
-        body {
-          background: url('images/alanbg.webp') no-repeat center center fixed; 
-          background-size: cover;
-          font-family: "Oswald";
-          text-align: center;
-          color: white;
-        }
+    footer {
+      background-color: #000019;
+      font-family: "Oswald";
+      color: white;
+      text-align: center;
+      font-size: 10px;
+    }
 
-        #body {
-          padding: 5%;
-          max-width: 900px;
-          margin-left: auto;
-          margin-right: auto;
-        }
+    .footerContainer {
+      width: 100%;
+      padding: 12px 0 25px;
+    }
 
-        a:link {
-          color: rgb(143, 208, 255);
-          text-decoration: none;
-        }
+    .socialIcons {
+      display: flex;
+      justify-content: center;
+    }
+    
+    .socialIcons a {
+      background-color: #ffffe6;
+      width: 55px;
+      height: 55px;
+      text-decoration: none;
+      padding: 10px;
+      margin: 10px;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      filter: invert(1);
+    }
 
-        a:visited {
-          color: rgb(143, 208, 255);
-          text-decoration: none;
-        }
+    .socialIcons a:hover {
+      background-color: #0E86D4;
+      filter: invert(0);
+    }
 
-        img {
-          padding: 30px;
-          border-radius: 60px;
-        }
-
-        .container {
-          width: 50%;
-          float: left;
-        }
-    </style>
-    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script>
-       $(function() {
-          $("#includeHtml").load("bar.html");
-       });
-    </script>
-  </head>
-  <body>
-    <div id="includeHtml"></div>
-    <section id="body">
-      <h1>Here's where you can find us!</h1>
-      <h1>&nbsp;</h1>
-      <div class="container">
+    .socialIcons img {
+      max-width: 35px;
+      max-height: 35px;
+    }
+</style>
+<footer>
+  <div class="footerContainer">
+    <h1>Also find us at:</h1>
+      <div class="socialIcons">
         <a href="https://twitter.com/AnimationVsFNF">
-          <h1>TWITTER</h1>
-          <img src="images/twitter.webp" width=200px>
+          <img src="images/twitter.webp">
         </a>
-      </div>
-      <div class="container" float=right>
         <a href="https://discord.com/invite/Gaad8f2PUt">
-          <h1>COMMUNITY DISCORD</h1>
-          <img src="images/discord.webp" width=200px>
+          <img src="images/discord.webp">
         </a>
       </div>
-      <h1>&nbsp;</h1>
-    </section>
-  </body>
-</html>
+  </div>
+</footer>

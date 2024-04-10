@@ -91,13 +91,15 @@
 
         #blogdate {
           text-align: right;
-
         }
     </style>
     <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script>
        $(function() {
           $("#includeHtml").load("bar.html");
+       });
+       $(function() {
+          $("#includeHtml2").load("socials.html");
        });
     </script>
   </head>
@@ -201,5 +203,6 @@
         <h2>You've reached the end</h2>
       </div>
     </section>
+    <div id="includeHtml2"></div>
   </body>
 </html>
