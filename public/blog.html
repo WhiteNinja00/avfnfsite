@@ -57,7 +57,7 @@
 
         #name p {
           float: left;
-          padding-top: 5px;
+          padding-top: 7px;
           padding-left: 5px;
         }
 
@@ -114,10 +114,10 @@
 
 
       <section id="blogpost">
-        <a href="https://twitter.com/JaceLOL_Real">
+        <a id='jaceurl'>
           <section id="name">
             <img src="images/jace.webp">
-            <p>JaceLOL</p>
+            <p id='jace'></p>
           </section>
         </a>
         <h2>&nbsp;</h2>
@@ -160,10 +160,10 @@
 
 
       <section id="blogpost">
-        <a href="https://www.whiteninja00.com/">
+        <a id=whiteninjaurl>
           <section id="name">
             <img src="images/whiteninja00.webp">
-            <p>whiteninja00</p>
+            <p id='whiteninja'></p>
           </section>
         </a>
         <h2>&nbsp;</h2>
@@ -192,10 +192,10 @@
 
 
       <section id="blogpost">
-        <a href="https://www.youtube.com/channel/UC37f51A8bNepi7PvD8owOxQ">
+        <a id='chapurl'>
           <section id="name">
             <img src="images/chap.webp">
-            <p>Chapurato</p>
+            <p id='chap'></p>
           </section>
         </a>
         <h2>&nbsp;</h2>
@@ -221,10 +221,10 @@
 
 
       <section id="blogpost">
-        <a href="https://www.whiteninja00.com/">
+        <a id='whiteninjaurl'>
           <section id="name">
             <img src="images/whiteninja00.webp">
-            <p>whiteninja00</p>
+            <p id='whiteninja'></p>
           </section>
         </a>
         <h2>&nbsp;</h2>
@@ -247,5 +247,33 @@
       </div>
     </section>
     <div id="includeHtml2"></div>
+    <script>
+      const list = document.querySelectorAll("p");
+      for (let i = 0; i < list.length; i++) {
+        switch (list[i].id) {
+          case 'whiteninja':
+            list[i].innerHTML = "whiteninja00";
+            break;
+          case 'chap':
+            list[i].innerHTML = "Sir Chapurato";
+            break;
+          case 'jace':
+            list[i].innerHTML = "JaceLOL";
+        }
+      }
+      const listurl = document.querySelectorAll("a");
+      for (let i = 0; i < listurl.length; i++) {
+        switch (listurl[i].id) {
+          case 'whiteninjaurl':
+            listurl[i].href = "https://www.whiteninja00.com";
+            break;
+          case 'chapurl':
+            listurl[i].href = "https://www.youtube.com/channel/UC37f51A8bNepi7PvD8owOxQ";
+            break;
+          case 'jaceurl':
+            listurl[i].href = "https://twitter.com/JaceLOL_Real";
+        }
+      }
+    </script>
   </body>
 </html>
