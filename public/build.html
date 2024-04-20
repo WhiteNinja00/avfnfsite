@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AvFNF</title>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Oswald:400,700" media="screen"> 
+    <style>
+        * {
+          box-sizing: border-box;
+        }
+
+        body {
+          background: url('images/alanbg.webp') no-repeat center center fixed; 
+          background-size: cover;
+          font-family: "Oswald";
+          text-align: center;
+          color: white;
+        }
+
+        #body {
+          font-size: 30px;
+          padding: 5%;
+          max-width: 900px;
+          margin-left: auto;
+          margin-right: auto;
+          display: flex;
+          justify-content: center;
+          padding-bottom: 0;
+          padding-top: 0;
+        }
+
+        #body a {
+          padding: 5px;
+          line-height: 40px;
+          color: #FFFFFF;
+          text-decoration: none;
+          background-color:rgb(0, 0, 25, 0.3);
+          border-radius: 10px;
+          white-space: nowrap;
+        }
+
+        #body a:hover {
+          color: #000000;
+          background-color: #0E86D4;
+        }
+
+        iframe { 
+          width: 90%;
+          height:unset;
+          max-width: 1080px;
+          aspect-ratio: 16 / 9;
+          border-radius: 10px;
+        }
+        
+        html, body {
+          padding: 0;
+          margin: 0;
+          height: 100%;
+        }
+        
+        footer{
+          position: fixed;
+          bottom: 0;
+          left: 0;
+          right: 0;
+        }
+    </style>
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script>
+       $(function() {
+          $("#includeHtml").load("bar.html");
+       });
+       $(function() {
+          $("#includeHtml2").load("socials.html");
+       });
+    </script>
+  </head>
+  <body>
+    <div id="includeHtml"></div>
+    <h2>&nbsp;</h2>
+    <h2>&nbsp;</h2>
+    <section id="body">
+      <h1>ANIMATION VS FNF' VERSION 1 (2022)</h1>
+    </section>
+    <h3>&nbsp;</h3>
+    <iframe width=1080px height=720px src="build/index.html"></iframe>
+    <h3>&nbsp;</h3>
+    <section id="body">
+      <a href="https://gamejolt.com/games/animationvsfnf/869177">Download Here</a>
+    </section>
+    <h2>&nbsp;</h2>
+    <h2>&nbsp;</h2>
+    <h2>&nbsp;</h2>
+    <h2>&nbsp;</h2>
+    <h2>&nbsp;</h2>
+    <footer>
+      <div id="includeHtml2"></div>
+    </footer>
+  </body>
+</html>

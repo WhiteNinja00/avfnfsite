@@ -35,5 +35,19 @@
   <a href="index.html">HOME</a>
   <a href="blog.html">BLOG</a>
   <a href="credit.html">CREDITS</a>
-  <a href="https://gamejolt.com/games/animationvsfnf/869177">DOWNLOAD</a>
+  <a id="mobilecheck"></a>
+  <script>
+    function isMobile() {
+      const regex = /Mobi|Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i;
+      return regex.test(navigator.userAgent);
+    }
+
+    if (isMobile()) {
+      document.getElementById("mobilecheck").innerHTML = "DOWNLOAD";
+      document.getElementById("mobilecheck").href = "https://gamejolt.com/games/animationvsfnf/869177";
+    } else {
+      document.getElementById("mobilecheck").innerHTML = "PLAY";
+      document.getElementById("mobilecheck").href = "build.html";
+    }
+  </script>
 </div>
