@@ -5,141 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>AvFNF</title>
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Oswald:400,700" media="screen"> 
-    <style>
-      * {
-          margin-top: 0;
-          margin-left: 0;
-          margin-right: 0;
-          margin-bottom: 0;
-        }
-
-        body {
-          font-family: "Oswald";
-          text-align: center;
-          color: white;
-        }
-      
-        #bg1 {
-          background: url('images/alanbg.webp') no-repeat center center fixed; 
-          background-size: cover;
-        }
-
-        #main1 {
-          color: white;
-          padding: 5%;
-          padding-bottom: 0;
-          max-width: 900px;
-          margin-left: auto;
-          margin-right: auto;
-        }
-
-        #bg2 {
-          background: url('images/backgroundthing.webp') no-repeat center center fixed; 
-          background-size: cover;
-        }
-      
-        #main2 {
-          color: black;
-          margin-top: 0;
-          padding: 5%;
-          padding-bottom: 0;
-          max-width: 900px;
-          margin-left: auto;
-          margin-right: auto;
-        }
-
-        #bg3 {
-          background: url('images/fnfreal.webp') no-repeat center center fixed; 
-          background-size: cover;
-        }
-      
-        #main3 {
-          color: white;
-          margin-top: 0;
-          padding: 5%;
-          max-width: 900px;
-          margin-left: auto;
-          margin-right: auto;
-        }
-
-        #bg4 {
-          background: url('images/isntthatthedeservedbg.webp') no-repeat center center fixed; 
-          background-size: cover;
-        }
-      
-        #main4 {
-          color: black;
-          margin-top: 0;
-          padding: 5%;
-          max-width: 900px;
-          margin-left: auto;
-          margin-right: auto;
-          padding-bottom: 0;
-        }
-
-        #bg5 {
-          background: url('images/backgroundthing.webp') no-repeat center center fixed; 
-          background-size: cover;
-        }
-      
-        #main5 {
-          color: black;
-          margin-top: 0;
-          padding: 5%;
-          max-width: 900px;
-          margin-left: auto;
-          margin-right: auto;
-        }
-
-        #bg6 {
-          background-color: white;
-        }
-      
-        #main6 {
-          color: black;
-          margin-top: 0;
-          padding: 5%;
-          padding-bottom: 0;
-          max-width: 900px;
-          margin-left: auto;
-          margin-right: auto;
-        }
-
-        h1 {
-          font-size: 30px;
-        }
-        
-        img {
-          margin-left: auto;
-          margin-right: auto;
-          display: flex;
-          justify-content: bottom;
-        }
-        
-        .screenshot {
-          flex: 32%;
-          max-width: 32%;
-          float: left;
-        }
-
-        .screenshot img {
-          width: 100%;
-        }
-        
-        #pleasework {
-          width: 100%;
-          height:unset;
-          aspect-ratio: 16 / 9;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
     </script>
     <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script>
        $(function() {
-          $("#includeHtml").load("bar.html");
-       });
-       $(function() {
-          $("#includeHtml2").load("socials.html");
+          $("#includeHtml").load("template.html");
        });
     </script>
   </head>
@@ -236,7 +107,12 @@
         <img src="images/TSC.webp" width=90%>
       </section>
     </section>
-    <div id="includeHtml2"></div>
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
     <script>
       $('img[data-enlargable]').addClass('img-enlargable').click(function(){
     var src = $(this).attr('src');
