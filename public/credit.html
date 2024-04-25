@@ -23,6 +23,7 @@
         }
     </style>
     <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
     <script>
        $(function() {
           $("#includeHtml").load("template.html");
@@ -46,7 +47,7 @@
       <h1>&nbsp;</h1>
       <h1>&nbsp;</h1>
       <h1>● CODERS</h1>
-      <a href="https://www.whiteninja00.com/">whiteninja00</a>
+      <a class="whiteninja"></a>
       <a href="https://twitter.com/MijaeLio">MijaeLio</a>
       <a href="https://youtube.com/channel/UCuJM5h8kgRHyFNg56LsOjNw">Tiburones</a>
       <a href="https://www.youtube.com/channel/UC1qT2vh0aORFdHA4cVAHZUw">Salty Sovet</a>
@@ -73,7 +74,7 @@
       <h1>&nbsp;</h1>
       <h1>&nbsp;</h1>
       <h1>● ARTISTS</h1>
-      <a href="https://www.whiteninja00.com/">whiteninja00</a>
+      <a class="whiteninja"></a>
       <a href="https://www.youtube.com/channel/UCGSX2AqYE98-Rq59qINt3BQ">Cheese Farmer</a>
       <a href="https://www.youtube.com/channel/UCWXYCOhrmye32o-zvu-GtPQ">Serkoid</a>
       <a href="https://www.youtube.com/channel/UC1iEkfmxlghtiFqJm7K_RBg">noogai9876</a>
@@ -98,7 +99,7 @@
       <h1>&nbsp;</h1>
       <h1>&nbsp;</h1>
       <h1>● CHARTERS</h1>
-      <a href="https://www.whiteninja00.com">whiteninja00</a>
+      <a class="whiteninja"></a>
       <a href="https://www.youtube.com/channel/UC37f51A8bNepi7PvD8owOxQ">Sir Chapurato</a>
       <a href="https://x.com/Sensisgone">Sensisgone</a>
       <a href="https://www.youtube.com/channel/UC8cwN_xk8ugqL2_y7LPVOVA">SimoxBanana</a>
@@ -142,6 +143,20 @@
       <a href="https://www.youtube.com/@its_me_skim">Skim</a>
       <a href="https://www.youtube.com/channel/UCUuUqWLLsUjheuYkP9AWxTA">Scott Buckley</a>
       <h1>&nbsp;</h1>
+      <script>
+      getcredit("whiteninja");
+      
+      function getcredit(name) {
+        const element = document.querySelectorAll('.' + name);
+        element.forEach(element => {
+          element.href = 'profiles/' + name + '.html';
+          var html;
+          $.get('profiles/' + name + '.html', function(data){
+            element.innerHTML = $(data).find('#name').html();
+          });
+        });
+      }
+      </script>
     </section>
   </body>
 </html>
