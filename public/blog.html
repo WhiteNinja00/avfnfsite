@@ -175,7 +175,7 @@
               break;
             case "pfp":
               $.get('profiles/' + name + '.html', function(data) {
-                var imgs = $('#pfp').html(data).find('.pfp');
+                var imgs = $('<div>').html(data).find('.pfp');
                 imgs.each(function(i, img) {
                   element.src = img.src;
                 });
