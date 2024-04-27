@@ -19,10 +19,10 @@
     <section id="body">
       <h2>&nbsp;</h2>
       <section id="blogpost">
-        <a href="https://www.whiteninja00.com/">
+        <a class="whiteninja" id="link">
           <section id="name">
-            <img src="images/whiteninja00.webp">
-            <p>whiteninja00</p>
+            <img class="whiteninja" id="pfp">
+            <p class="whiteninja" id="name"></p>
           </section>
         </a>
         <h2>&nbsp;</h2>
@@ -71,5 +71,33 @@
     <h3>&nbsp;</h3>
     <h3>&nbsp;</h3>
     <h1>&nbsp;</h1>
+    <script>
+      getcredit("whiteninja");
+    
+      function getcredit(name) {
+        const element = document.querySelectorAll('.' + name);
+        element.forEach(element => {
+          switch(element.id) {
+            case "name":
+              var html;
+              $.get('profiles/' + name + '.html',    function(data){
+                element.innerHTML = $(data).find('#name').html();
+              });
+              break;
+            case "pfp":
+              $.get('profiles/' + name + '.html', function(data) {
+                var imgs = $('<div>').html(data).find('.pfp');
+                imgs.each(function(i, img) {
+                  element.src = img.src;
+                });
+              });
+              break;
+            case "link":
+              element.href = 'profiles/' + name + '.html';
+              break;
+          }
+        });
+      }
+    </script>
   </body>
 </html>

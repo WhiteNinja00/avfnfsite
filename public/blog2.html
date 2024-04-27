@@ -19,10 +19,10 @@
     <section id="body">
       <h2>&nbsp;</h2>
       <section id="blogpost">
-        <a href="https://www.youtube.com/channel/UC37f51A8bNepi7PvD8owOxQ">
+        <a class="chap" id="link">
           <section id="name">
-            <img src="images/chap.webp">
-            <p>Sir Chapurato</p>
+            <img class="chap" id="pfp">
+            <p class="chap" id="name"></p>
           </section>
         </a>
         <h2>&nbsp;</h2>
@@ -68,5 +68,33 @@
     <h3>&nbsp;</h3>
     <h3>&nbsp;</h3>
     <h1>&nbsp;</h1>
+    <script>
+      getcredit("chap");
+    
+      function getcredit(name) {
+        const element = document.querySelectorAll('.' + name);
+        element.forEach(element => {
+          switch(element.id) {
+            case "name":
+              var html;
+              $.get('profiles/' + name + '.html',    function(data){
+                element.innerHTML = $(data).find('#name').html();
+              });
+              break;
+            case "pfp":
+              $.get('profiles/' + name + '.html', function(data) {
+                var imgs = $('<div>').html(data).find('.pfp');
+                imgs.each(function(i, img) {
+                  element.src = img.src;
+                });
+              });
+              break;
+            case "link":
+              element.href = 'profiles/' + name + '.html';
+              break;
+          }
+        });
+      }
+    </script>
   </body>
 </html>

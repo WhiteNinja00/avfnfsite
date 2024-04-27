@@ -24,10 +24,10 @@
 
 
       <section id="blogpost">
-        <a href="https://www.youtube.com/channel/UC1iEkfmxlghtiFqJm7K_RBg">
+        <a class="noogai" id="link">
           <section id="name">
-            <img src="images/noogai.webp">
-            <p>noogai9876</p>
+            <img class="noogai" id="pfp">
+            <p class="noogai" id="name"></p>
           </section>
         </a>
         <h2>&nbsp;</h2>
@@ -50,11 +50,12 @@
 
 
       <section id="blogpost">
-        <a href="https://twitter.com/JaceLOL_Real">
-          <section id="name">
-            <img src="images/jace.webp">
-            <p>JaceLOL</p>
-          </section>
+        <a class="jace" id="link">
+            <section id="name">
+              <img class="jace" id="pfp">
+              <p class="jace" id="name"></p>
+            </section>
+          </a>
         </a>
         <h2>&nbsp;</h2>
         <h3>&nbsp;</h3>
@@ -102,10 +103,10 @@
 
 
       <section id="blogpost">
-        <a href="https://www.youtube.com/channel/UC37f51A8bNepi7PvD8owOxQ">
+        <a class="chap" id="link">
           <section id="name">
-            <img src="images/chap.webp">
-            <p>Sir Chapurato</p>
+            <img class="chap" id="pfp">
+            <p class="chap" id="name"></p>
           </section>
         </a>
         <h2>&nbsp;</h2>
@@ -162,6 +163,9 @@
     <h3>&nbsp;</h3>
     <script>
       getcredit("whiteninja");
+      getcredit("chap");
+      getcredit("noogai");
+      getcredit("jace");
     
       function getcredit(name) {
         const element = document.querySelectorAll('.' + name);
