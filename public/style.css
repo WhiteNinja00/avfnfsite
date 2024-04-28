@@ -73,12 +73,12 @@
   }
 
   #bg5 {
-    background: url('images/backgroundthing.webp') no-repeat center center fixed; 
+    background: url('images/couchbg.webp') no-repeat center center fixed; 
     background-size: cover;
   }
 
   #main5 {
-    color: black;
+    color: white;
     margin-top: 0;
     padding: 5%;
     max-width: 900px;
