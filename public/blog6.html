@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AvFNF</title>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Oswald:400,700" media="screen">
+    <link rel="stylesheet" href="blogstyle.css">
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script>
+       $(function() {
+        $("#includeHtml").load("template.html");
+       });
+    </script>
+  </head>
+  <body>
+    <div id="includeHtml"></div>
+    <h3>&nbsp;</h3>
+    <section id="body">
+      <h2>&nbsp;</h2>
+      <section id="blogpost">
+        <a class="whiteninja" id="link">
+          <section id="name">
+            <img class="whiteninja" id="pfp">
+            <p class="whiteninja" id="name"></p>
+          </section>
+        </a>
+        <h2>&nbsp;</h2>
+        <h3>&nbsp;</h3>
+        <section id="blogtitle">
+          <h1>and it is.... FINISHED!! !</h1>
+        </section>
+        <h3>&nbsp;</h3>
+        <section id="blogcontent">
+          <p>the website.. is complete!!</p>
+          <h2>&nbsp;</h2>
+          <p>credit menu, play section, home menu, blog, ALL OF IT. done :)</p>
+          <h2>&nbsp;</h2>
+          <p>2010 lines of code later and i finished cooking !</p>
+          <h2>&nbsp;</h2>
+          <p>ight cya later</p>
+        </section>
+        <h2>&nbsp;</h2>
+        <section id="blogdate">
+          <small>2024/4/30</small>
+        </section>
+        <h3>&nbsp;</h3>
+        <script src="https://giscus.app/client.js?1"
+          data-repo="WhiteNinja00/avfnfsite"
+          data-repo-id="R_kgDOLA11Lw"
+          data-category="Blog Posts"
+          data-category-id="DIC_kwDOLA11L84CeyyV"
+          data-mapping="specific"
+          data-term="blog post 6"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"  
+          data-input-position="top"
+          data-theme="noborder_light"
+          data-lang="en"
+          data-loading="lazy"
+          crossorigin="anonymous"
+          async>
+        </script>
+      </section>
+    </section>
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
+    <h3>&nbsp;</h3>
+    <h1>&nbsp;</h1>
+    <script>
+      getcredit("whiteninja");
+    
+      function getcredit(name) {
+        const element = document.querySelectorAll('.' + name);
+        element.forEach(element => {
+          switch(element.id) {
+            case "name":
+              var html;
+              $.get('profiles/' + name + '.html',    function(data){
+                element.innerHTML = $(data).find('#name').html();
+              });
+              break;
+            case "pfp":
+              $.get('profiles/' + name + '.html', function(data) {
+                var imgs = $('<div>').html(data).find('.pfp');
+                imgs.each(function(i, img) {
+                  element.src = img.src;
+                });
+              });
+              break;
+            case "link":
+              element.href = 'profiles/' + name + '.html';
+              break;
+          }
+        });
+      }
+    </script>
+  </body>
+</html>
