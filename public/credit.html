@@ -41,7 +41,7 @@
     <script src="//code.jquery.com/jquery-1.10.2.js"></script>
     <script>
        $(function() {
-          $("#includeHtml").load("template.html");
+          $("#includeHtml").load("template");
        });
     </script>
   </head>
@@ -251,9 +251,9 @@
       function getcredit(name) {
         const element = document.querySelectorAll('.' + name);
         element.forEach(element => {
-          element.href = 'profiles/' + name + '.html';
+          element.href = 'profiles/' + name;
           var html;
-          $.get('profiles/' + name + '.html', function(data){
+          $.get('profiles/' + name, function(data){
             var imgs = $('<div>').html(data).find('.pfp');
             imgs.each(function(i, img) {
               element.innerHTML = "<img src='" + img.src + "'>";

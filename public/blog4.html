@@ -9,7 +9,7 @@
     <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script>
        $(function() {
-        $("#includeHtml").load("template.html");
+        $("#includeHtml").load("template");
        });
     </script>
   </head>
@@ -91,15 +91,15 @@
       function getcredit(name) {
         const element = document.querySelectorAll('.' + name);
         element.forEach(element => {
-          switch(element.id) {
+          switch (element.id) {
             case "name":
               var html;
-              $.get('profiles/' + name + '.html',    function(data){
+              $.get('profiles/' + name, function(data) {
                 element.innerHTML = $(data).find('#name').html();
               });
               break;
             case "pfp":
-              $.get('profiles/' + name + '.html', function(data) {
+              $.get('profiles/' + name, function(data) {
                 var imgs = $('<div>').html(data).find('.pfp');
                 imgs.each(function(i, img) {
                   element.src = img.src;
@@ -107,7 +107,7 @@
               });
               break;
             case "link":
-              element.href = 'profiles/' + name + '.html';
+              element.href = 'profiles/' + name;
               break;
           }
         });
