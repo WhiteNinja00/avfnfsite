@@ -9,7 +9,7 @@
     <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script>
        $(function() {
-        $("#includeHtml").load("template");
+        $("#includeHtml").load("template.html");
        });
     </script>
   </head>
@@ -80,12 +80,12 @@
           switch(element.id) {
             case "name":
               var html;
-              $.get('profiles/' + name,    function(data){
+              $.get('profiles/' + name + '.html',    function(data){
                 element.innerHTML = $(data).find('#name').html();
               });
               break;
             case "pfp":
-              $.get('profiles/' + name, function(data) {
+              $.get('profiles/' + name + '.html', function(data) {
                 var imgs = $('<div>').html(data).find('.pfp');
                 imgs.each(function(i, img) {
                   element.src = img.src;
@@ -93,7 +93,7 @@
               });
               break;
             case "link":
-              element.href = 'profiles/' + name;
+              element.href = 'profiles/' + name + '.html';
               break;
           }
         });
