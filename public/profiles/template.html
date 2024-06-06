@@ -6,7 +6,7 @@
       <a href="../index.html">HOME</a>
       <a href="../blog.html">BLOG</a>
       <a href="../credit.html">CREDITS</a>
-      <a id="mobilecheck"></a>
+      <a id="mobilecheck">DOWNLOAD</a>
       <script>
         function isMobile() {
           const regex = /Mobi|Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i;
@@ -14,10 +14,8 @@
         }
     
         if (isMobile()) {
-          document.getElementById("mobilecheck").innerHTML = "DOWNLOAD";
-          document.getElementById("mobilecheck").href = "https://gamejolt.com/games/animationvsfnf/869177";
+          document.getElementById("mobilecheck").href = "../download.html";
         } else {
-          document.getElementById("mobilecheck").innerHTML = "PLAY";
           document.getElementById("mobilecheck").href = "../build.html";
         }
       </script>
