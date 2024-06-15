@@ -245,6 +245,9 @@
           $.get('profiles/' + name + '.html', function(data){
             var imgs = $('<div>').html(data).find('.pfp');
             imgs.each(function(i, img) {
+              if(img.width == 0) {
+                img.setAttribute('src', "images/defaultpfp.webp");
+              }
               element.innerHTML = "<img src='" + img.src + "'>";
             });
             element.innerHTML += $(data).find('#name').html();
