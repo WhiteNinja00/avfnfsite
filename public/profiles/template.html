@@ -1,0 +1,40 @@
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Oswald:400,700" media="screen"> 
+<link rel="stylesheet" href="../templatestyle.css">
+<html>
+  <body>
+    <div class="topnav">
+      <a href="../index.html">HOME</a>
+      <a href="../blog.html">BLOG</a>
+      <a href="../credit.html">CREDITS</a>
+      <a href="../jukebox.html">JUKEBOX</a>
+      <a id="mobilecheck">DOWNLOAD</a>
+      <script>
+        function isMobile() {
+          const regex = /Mobi|Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i;
+          return regex.test(navigator.userAgent);
+        }
+    
+        if (isMobile()) {
+          document.getElementById("mobilecheck").href = "../download.html";
+        } else {
+          document.getElementById("mobilecheck").href = "../build.html";
+        }
+      </script>
+    </div>
+    <footer>
+        <h2>&nbsp;</h2>
+      <div class="footerContainer">
+        <img src="../images/logo.webp" id="logo">
+        <h1>Also find us at:</h1>
+          <div class="socialIcons">
+            <a href="https://twitter.com/AnimationVsFNF">
+              <img src="../images/twitter.webp">
+            </a>
+            <a href="https://discord.com/invite/Gaad8f2PUt">
+              <img src="../images/discord.webp">
+            </a>
+          </div>
+      </div>
+    </footer>
+  </body>
+</html>
