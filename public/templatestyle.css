@@ -33,10 +33,11 @@ footer {
 .footerContainer {
   width: 100%;
   padding: 12px 0 25px;
+  padding-right: 10%;
 }
 
 #logo {
-  padding-left: 25%;
+  padding-left: 10%;
   height: 100px;
   float: left;
 }
