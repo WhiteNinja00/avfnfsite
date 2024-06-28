@@ -42,11 +42,7 @@
     margin-left: auto;
     margin-right: auto;
   }
-
-  #name {
-    text-align: left;
-  }
-
+  
   p {
     float: left;
     padding-top: 7px;
@@ -59,12 +55,12 @@
     border-radius: 20px;
   }
 
-  a:link {
+  #blogpost a:link {
     color: black;
     text-decoration: none;
   }
 
-  a:visited {
+  #blogpost a:visited {
     color: black;
     text-decoration: none;
   }
@@ -90,4 +86,28 @@
 
   #blogdate {
     text-align: right;
+  }
+
+  #profile a {
+    padding: 5px;
+    line-height: 40px;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color:rgb(0, 0, 25, 0.3);
+    border-radius: 10px;
+    white-space: nowrap;
+    margin: 2.5px;
+    float: left;
+  }
+
+  #profile a:hover {
+    color: #000000;
+    background-color: #0E86D4;
+  }
+
+  #profile a img {
+    width: 35px;
+    border-radius: 50%;
+    margin: 2.5px;
+    float: left;
   }

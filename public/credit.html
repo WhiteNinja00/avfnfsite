@@ -105,7 +105,6 @@
         <a class="savia"></a>
         <a class="geonwoo"></a>
         <a class="yesitsbee"></a>
-        <a class="atomix"></a>
         <a class="swoleboi"></a>
         <a class="lelazy"></a>
         <a class="nizzy"></a>
@@ -172,85 +171,16 @@
       <h1>&nbsp;</h1>
       <h1>&nbsp;</h1>
       <script>
-      getcredit("whiteninja");
-      getcredit("chap");
-      getcredit("swoleboi");
-      getcredit("noogai");
-      getcredit("jace");
-      getcredit("atomix");
-      getcredit("yesitsbee");
-      getcredit("serkoid");
-      getcredit("mijaelio");
-      getcredit("tiburones");
-      getcredit("charlotte");
-      getcredit("salty");
-      getcredit("longestsoloever");
-      getcredit("top10");
-      getcredit("ojogadoranimador");
-      getcredit("spoondice");
-      getcredit("idiotic");
-      getcredit("lostgamer");
-      getcredit("surge");
-      getcredit("chaotrix");
-      getcredit("lizzlepy");
-      getcredit("sic");
-      getcredit("vaderlings");
-      getcredit("alberton");
-      getcredit("cheesefarmer");
-      getcredit("karn");
-      getcredit("kontashu");
-      getcredit("alanbecker");
-      getcredit("djwelch");
-      getcredit("skim");
-      getcredit("scottbuckley");
-      getcredit("ekical");
-      getcredit("sensisgone");
-      getcredit("simox");
-      getcredit("boink");
-      getcredit("skwoop");
-      getcredit("golden");
-      getcredit("haylow");
-      getcredit("syrupwaf");
-      getcredit("hexal");
-      getcredit("savia");
-      getcredit("geonwoo");
-      getcredit("tostitos");
-      getcredit("flandre");
-      getcredit("primpink");
-      getcredit("lelazy");
-      getcredit("nizzy");
-      getcredit("kixel");
-      getcredit("bapple");
-      getcredit("deserved");
-      getcredit("scifi");
-      getcredit("az989");
-      getcredit("egglo");
-      getcredit("johndaily");
-      getcredit("cancerpenguin");
-      getcredit("peacehacker");
-      getcredit("reginald");
-      getcredit("dareiphobia");
-      getcredit("sulfur");
-      getcredit("zeff");
-      getcredit("ooum");
-      getcredit("sp0re");
-      getcredit("legoldenboots");
-      getcredit("daninnocents");
-
-      function getcredit(name) {
-        const element = document.querySelectorAll('.' + name);
-        element.forEach(element => {
-          element.href = 'profiles/' + name + '.html';
-          var html;
-          $.get('profiles/' + name + '.html', function(data){
-            var imgs = $('<div>').html(data).find('.pfp');
-            imgs.each(function(i, img) {
-              element.innerHTML = "<img src='" + img.src + "'>";
+        fetch('./profiles.json').then((response) => response.json()).then((json) => {
+          for(var i=0; i < json.length; i++) {
+            const element = document.querySelectorAll('.' + json[i].user);
+            element.forEach(element => {
+              element.href = 'profiles.html?name=' + json[i].user;
+              element.innerHTML = "<img src='" + json[i].pfp + "'>";
+              element.innerHTML += json[i].name;
             });
-            element.innerHTML += $(data).find('#name').html();
-          });
-        });
-      }
+          }
+        })
       </script>
     </section>
   </body>

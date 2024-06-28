@@ -66,14 +66,37 @@
     <h1>&nbsp;</h1>
     <h1>&nbsp;</h1>
     <section id="body">
-      <img src="https://pbs.twimg.com/profile_images/1737937296282779648/-VTHxazG_400x400.jpg" onerror="this.onerror=null; this.src='../images/defaultpfp.webp'" id="pfp" class="pfp">
-      <h1 id="name">whiteninja00</h1>
+      <img onerror="this.onerror=null; this.src='../images/defaultpfp.webp'" id="pfp" class="pfp">
+      <h1 id="name"></h1>
       <h1>&nbsp;</h1>
-      <h2>Hey guys! im the dude who made this cool website for yall</h2>
-      <h2>i coded a bunch of other stuff for avfnf</h2>
+      <h2 id="description"></h2>
       <h2>&nbsp;</h2>
-      <a class="link" href="https://www.whiteninja00.com/"><img src="https://cdn-icons-png.flaticon.com/512/2235/2235607.png"></img></a>
+      <section id="links"></section>
       <h1>&nbsp;</h1>
     </section>
+    <h1>&nbsp;</h1>
+    <script>
+      function getParameterByName(name, url = window.location.href) {
+        name = name.replace(/[\[\]]/g, '\\$&');
+        var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+        results = regex.exec(url);
+        if (!results) return null;
+        if (!results[2]) return '';
+        return decodeURIComponent(results[2].replace(/\+/g, ' '));
+      }
+
+      fetch('./profiles.json').then((response) => response.json()).then((json) => {
+        for(var i=0; i < json.length; i++) {
+          if(json[i].user == getParameterByName('name')) {
+            document.getElementById('name').innerHTML = json[i].name;
+            document.getElementById('pfp').src = json[i].pfp;
+            document.getElementById('description').innerHTML = json[i].description;
+            for(var x=0; i > -1; x++) {
+              $("section#links").prepend('<a class="link" href="'+json[i].links[x].url+'"><img src="'+json[i].links[x].img+'"></img></a>');
+            }
+          }
+        }
+      })
+    </script>
   </body>
 </html>
