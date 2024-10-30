@@ -1,16 +1,5 @@
 [
-    {
-        "user": "whiteninja",
-        "name": "whiteninja00",
-        "pfp": "https://pbs.twimg.com/profile_images/1737937296282779648/-VTHxazG_400x400.jpg",
-        "description": "Hey guys! im the dude who made this cool website for yall<h3>&nbsp;</h3>i coded a bunch of other stuff for avfnf",
-        "links": [
-            {
-                "img": "https://cdn-icons-png.flaticon.com/512/2235/2235607.png",
-                "url": "https://www.whiteninja00.com/"
-            }
-        ]
-    },
+    // Directors
     {
         "user": "chap",
         "name": "Sir Chapurato",
@@ -19,7 +8,7 @@
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UC37f51A8bNepi7PvD8owOxQ"
+                "url": "https://www.youtube.com/@Chapurato"
             },
             {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
@@ -35,139 +24,178 @@
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UC1iEkfmxlghtiFqJm7K_RBg"
+                "url": "https://www.youtube.com/@noogai9876"
+            },
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/noogai9876"
             }
         ]
     },
     {
-        "user": "swoleboi",
+        "user": "swole",
         "name": "SwoleBoi Productions",
-        "pfp": "https://pbs.twimg.com/profile_images/1742663862204157952/GkIRWbOx_400x400.jpg",
+        "pfp": "https://pbs.twimg.com/profile_images/1846358171201232896/gdK8ATz7_400x400.jpg",
         "description": "hi guys!! im swoleboi!! ive been directing this mod for like 9 months & i might just pass out & die bcuz of it!! hope u guys enjoy the mod :)",
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
                 "url": "https://www.youtube.com/@swoleboiproductions"
+            },
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/heyitsmekayla__"
             }
         ]
     },
+    // Co-Directors
     {
-        "user": "atomix",
+        "user": "atomixx",
         "name": "Atomixx",
         "pfp": "https://pbs.twimg.com/profile_images/1735149689241030656/H6ePYI-x_400x400.jpg",
         "description": "mocha frappe",
         "links": [
             {
+                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
+                "url": "https://www.youtube.com/@imjustatomixx"
+            },
+            {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/imjustatomixx"
+                "url": "https://x.com/imjustatomixx"
             }
         ]
     },
     {
-        "user": "yesitsbee",
+        "user": "bee",
         "name": "Yes, It's Bee",
-        "pfp": "https://yt3.googleusercontent.com/I8TtR5w7RmvXmiwkuS1f4z-PNcTpIaxsBSIOC1hh-9BXOw3Uumd1amEo5R0GtGioB9vbIC8idQ=s160-c-k-c0x00ffffff-no-rj",
+        "pfp": "https://pbs.twimg.com/profile_images/1845305046562635780/RHjftk6t_400x400.jpg",
         "description": "Why do they call it Yes when you of in the Its food of out Bee eat the Yes?",
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UCi4COUcfP89Il-PKJ33DlNg"
+                "url": "https://www.youtube.com/@YesItsbee"
+            },
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/yesitsbee1"
             }
         ]
     },
     {
-        "user": "serkoid",
+        "user": "serk",
         "name": "Serkoid",
         "pfp": "https://pbs.twimg.com/profile_images/1548261276329029633/5Xgfv6Q2_400x400.jpg",
         "description": "I make stuff",
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UCWXYCOhrmye32o-zvu-GtPQ"
+                "url": "https://www.youtube.com/@Serkoid"
+            },
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/SerkoidYT"
+            }
+        ]
+    },
+    // Coders
+    {
+        "user": "whiteninja",
+        "name": "whiteninja00",
+        "pfp": "https://pbs.twimg.com/profile_images/1737937296282779648/-VTHxazG_400x400.jpg",
+        "description": "Hey guys! im the dude who made this cool website for yall<h3>&nbsp;</h3>i coded a bunch of other stuff for avfnf",
+        "links": [
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/2235/2235607.png",
+                "url": "https://www.whiteninja00.com/"
             }
         ]
     },
     {
-        "user": "mijaelio",
+        "user": "mijae",
         "name": "MijaeLio",
         "pfp": "https://pbs.twimg.com/profile_images/1443682375049826308/Ae7lXgoT_400x400.jpg",
         "description": "🇵🇪",
         "links": [
             {
+                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
+                "url": "https://www.youtube.com/@MijaeLio"
+            },
+            {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/MijaeLio"
+                "url": "https://x.com/MijaeLio"
             }
         ]
     },
+    // Musicians
     {
-        "user": "longestsoloever",
-        "name": "longestsoloever",
-        "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_kabqu2yCd1ojR-RXT3bNVR-fzeWYeLeCmuhRUwH96jaWo=s176-c-k-c0x00ffffff-no-rj",
-        "description": "Dean DiMarzo 🎸 Nerdcore / metal artist, He/Him",
-        "links": [
-            {
-                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UCDho0k4J3qvekjkqL4sepfQ"
-            }
-        ]
-    },
-    {
-        "user": "top10",
-        "name": "Top 10 Awesome",
-        "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_l0sMkhMMHxCgutnss3pspZazPfcwzzOPNefpCbUB1E5Q=s176-c-k-c0x00ffffff-no-rj",
-        "description": "a 10 top channel<h3>&nbsp;</h3>Chop your own wood and it will warm you twice",
-        "links": [
-            {
-                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UC6NtPGdUgKSC8Wx1F-GN4tg"
-            }
-        ]
-    },
-    {
-        "user": "spoondice",
-        "name": "Spoon Dice",
-        "pfp": "https://yt3.googleusercontent.com/iIt8dN3_djx6IKsRIlIfWYuOGwBM1PeV7ErcyHMuJVmc4cllUL6g0ghB33fL_OXCjanEFRY7=s176-c-k-c0x00ffffff-no-rj",
+        "user": "spoon",
+        "name": "Spoon Dice Music",
+        "pfp": "https://pbs.twimg.com/profile_images/1625744802074529792/7UNanslk_400x400.jpg",
         "description": "im spoondicemusic, i made some of the music for this mod lol",
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/c/SpoonDice"
-            }
-        ]
-    },
-    {
-        "user": "idiotic",
-        "name": "Idiotic Sugar",
-        "pfp": "https://yt3.googleusercontent.com/Mkr7nxd3tQf2xgZbJ1hXhv_1zs7mDY7FqdVP_OwNNXaZ0PqTGGGrZZ54yuu0rdb0qPSqDwfui-Q=s176-c-k-c0x00ffffff-no-rj",
-        "description": "about me:<h3>&nbsp;</h3>Artist/Music Artist<h3>&nbsp;</h3>Mtf",
-        "links": [
+                "url": "https://www.youtube.com/@SpoonDiceMusic"
+            },
             {
-                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UCvT7NQk_f401WzDZbQ-DidA"
-            }
-        ]
-    },
-    {
-        "user": "lostgamer",
-        "name": "The Lost Gamer",
-        "pfp": "https://yt3.googleusercontent.com/qo_AtMHwXiiruOPCqDtWxlZwW4Ll0hg8Zx9lfCXDe5AvM_ev3yriKOoaGdBECyvw4Qfb6cMnbZQ=s176-c-k-c0x00ffffff-no-rj",
-        "description": "▪︎ Romanian<h3>&nbsp;</h3>▪︎ Composer",
-        "links": [
-            {
-                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UCKLDGnrxzYuu2QDaPa7VlxA"
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/SpoonDiceMusic"
             }
         ]
     },
     {
         "user": "surge",
         "name": "Surge SPB",
-        "pfp": "https://yt3.googleusercontent.com/luE8svzwGRIicAaBdusn4M8xV9Owemv5Jf2NQ9_4rO5YmK-dDvHIF9B6JqVGMfh06h937cj_6oU=s176-c-k-c0x00ffffff-no-rj",
+        "pfp": "https://yt3.googleusercontent.com/Ji5VsK4GMUcHHAkhX_Zbk0mVnxCiAR9wQlhgOZJ10T7kOuOdwP8wNB7rpbpF8_2xf2XTxXUpIA=s160-c-k-c0x00ffffff-no-rj",
         "description": "Producer, I make what I feel like, expect a lot of Breakcore and Hardstyle mixed with some other random things.<h3>&nbsp;</h3>I only make FNF songs for and with close friends, so expect less of that.<h3>&nbsp;</h3>If you'd like to contact me, here is my Discord: @surgespb",
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/c/SurgeSPBMakesMusic"
+                "url": "https://www.youtube.com/@SurgeSPB"
+            }
+        ]
+    },
+    {
+        "user": "lost",
+        "name": "The Lost Gamer",
+        "pfp": "https://yt3.googleusercontent.com/qo_AtMHwXiiruOPCqDtWxlZwW4Ll0hg8Zx9lfCXDe5AvM_ev3yriKOoaGdBECyvw4Qfb6cMnbZQ=s176-c-k-c0x00ffffff-no-rj",
+        "description": "▪︎ Romanian<h3>&nbsp;</h3>▪︎ Composer",
+        "links": [
+            {
+                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
+                "url": "https://www.youtube.com/@LostsStuff"
+            }
+        ]
+    },
+    {
+        "user": "lse",
+        "name": "longestsoloever",
+        "pfp": "https://pbs.twimg.com/profile_images/1675145535748034562/cRjpvVrD_400x400.jpg",
+        "description": "Dean DiMarzo 🎸 Nerdcore / metal artist, He/Him",
+        "links": [
+            {
+                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
+                "url": "https://www.youtube.com/@longestsoloever"
+            },
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/longestsoloever"
+            }
+        ]
+    },
+    {
+        "user": "top10",
+        "name": "Top 10 Awesome",
+        "pfp": "https://pbs.twimg.com/profile_images/1509287747520978946/UL9dW3O9_400x400.jpg",
+        "description": "a 10 top channel<h3>&nbsp;</h3>Chop your own wood and it will warm you twice",
+        "links": [
+            {
+                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
+                "url": "https://www.youtube.com/@Top10Awesome"
+            },
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/top10awesome3"
             }
         ]
     },
@@ -179,67 +207,67 @@
         "links": [
             {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/ChaotrixFnf"
+                "url": "https://x.com/ChaotrixFnf"
             }
         ]
     },
     {
-        "user": "lizzlepy",
-        "name": "Lizzlepy",
+        "user": "liz",
+        "name": "Lizzelpy",
         "pfp": "https://pbs.twimg.com/profile_images/1800321880101937152/JPrJaZnH_400x400.jpg",
         "description": "i made a song",
         "links": [
             {
-                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/lizzelpy"
-            }
-        ]
-    },
-    {
-        "user": "charlotte",
-        "name": "Charlotte",
-        "pfp": "https://pbs.twimg.com/profile_images/1779364268502085633/GgRS44Ba_400x400.jpg",
-        "description": "i love alan becker content i Love this mod it's so cool i love all of it<h3>&nbsp;</h3>also i'm gay",
-        "links": [
+                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
+                "url": "https://www.youtube.com/@Hazelpy"
+            },
             {
-                "img": "https://cdn-icons-png.flaticon.com/512/2235/2235607.png",
-                "url": "https://fllics.carrd.co"
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/lizzelpy"
             }
         ]
     },
     {
         "user": "sic",
         "name": "Sic",
-        "pfp": "https://pbs.twimg.com/profile_images/1777056345956433920/rXM6TM74_400x400.jpg",
+        "pfp": "https://pbs.twimg.com/profile_images/1850476971706187776/iISP3-8-_400x400.jpg",
         "description": "Hi! im an average musician fnf and not fnf with 5 years of experience (im still pretty average)<h3>&nbsp;</h3>i speak three silly languages: IT/EN/ES",
         "links": [
             {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/_SicOn_"
+                "url": "https://x.com/_SicOn_"
             }
         ]
     },
     {
         "user": "jace",
         "name": "JaceLOL",
-        "pfp": "https://pbs.twimg.com/profile_images/1804169698331795456/9pY2tvYO_400x400.jpg",
+        "pfp": "https://pbs.twimg.com/profile_images/1832509479688065024/4ShvuXKQ_400x400.jpg",
         "description": "if a90 from doors jumped you while you were pissing but you didn't move would he count the piss coming out or no",
         "links": [
             {
+                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
+                "url": "https://www.youtube.com/@JaceLOL_"
+            },
+            {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/JaceLOL_Real"
+                "url": "https://x.com/JaceLOL_Real"
             }
         ]
     },
     {
-        "user": "vaderlings",
+        "user": "vader",
         "name": "Vaderlings",
-        "pfp": "https://pbs.twimg.com/profile_images/1660422695585206272/wFaAjARv_400x400.jpg",
+        "pfp": "https://pbs.twimg.com/profile_images/1812942272641835011/2Nuo5Ruy_400x400.jpg",
         "description": "help me i got dragged here and they wont let me out please i havent eaten in 3 months",
         "links": [
             {
+                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
+                "url": "https://www.youtube.com/@vaderlings"
+            },
+            {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/vaderlings"
+                "url": "https://x.com/vaderlings"
             }
         ]
     },
@@ -256,74 +284,75 @@
         ]
     },
     {
-        "user": "egglo",
-        "name": "Egglo",
-        "pfp": "https://yt3.googleusercontent.com/ve-u0BtmFzJYRpoLDrkioC0WO12hRnE279nPtVnSYcApP4RblBniRWP8w4u1-LMHhzuF0pOv=s176-c-k-c0x00ffffff-no-rj",
-        "description": "I make stupid music<h3>&nbsp;</h3>15 years of life",
-        "links": [
-            {
-                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/Egglolmao"
-            }
-        ]
-    },
-    {
         "user": "skwoop",
         "name": "skwoop",
-        "pfp": "https://pbs.twimg.com/profile_images/1750456850116673536/ud-OprOj_400x400.jpg",
+        "pfp": "https://pbs.twimg.com/profile_images/1831331293839400960/cJ_N_V7C_400x400.jpg",
         "description": "melancholy heart eat me.. i hope it eat you too.. ver net",
         "links": [
             {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/itsallfuckein"
+                "url": "https://x.com/itsallfuckein"
             }
         ]
     },
+    // Artists
     {
-        "user": "cheesefarmer",
+        "user": "cheese",
         "name": "Cheese Farmer",
-        "pfp": "https://yt3.googleusercontent.com/tYRjRqd1n1k30dJhnXbmKYHg8Mx-YfKzoAHMZjwUYKBioCBG0fSr4FSORzLXrjRRPSZgiOPj0Q=s176-c-k-c0x00ffffff-no-rj",
+        "pfp": "https://yt3.googleusercontent.com/ildyXIJVPI5hyU_bI9P6s1c7yqV7TyqPfG222T9_CVpMKXIshY4IOjOv_G7mu_SR2zCjJWeC=s160-c-k-c0x00ffffff-no-rj",
         "description": "uhhh would you rather have unlimited fnf but no games, but unlimited games and no games",
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UCGSX2AqYE98-Rq59qINt3BQ"
+                "url": "https://www.youtube.com/@cheesefarmer6139"
             }
         ]
     },
     {
-        "user": "ojogadoranimador",
+        "user": "oja",
         "name": "O Jogador Animador",
-        "pfp": "https://yt3.googleusercontent.com/GKFK6-5w0Acq-0wm9w83hTggQCT_IOyiCRIbN18rsOUwSYRsvPp3cqWeag0puJC9BaF2C_suBp0=s176-c-k-c0x00ffffff-no-rj",
+        "pfp": "https://pbs.twimg.com/profile_images/1802313150076719104/ny9p5oZH_400x400.jpg",
         "description": "18 / 🇵🇹<h3>&nbsp;</h3>animator / artist<h3>&nbsp;</h3>Alan Becker fan",
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UCMKqZBweGhdyXS_yyR_wwfw"
+                "url": "https://www.youtube.com/@OJogadorAnimador"
+            },
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/AnimadorJogador"
             }
         ]
     },
     {
         "user": "hexal",
         "name": "Hexal",
-        "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_mR7W1MhyrRPNNHd7zZ09BrgOTDLhXtvA636qrpijrDnDs=s176-c-k-c0x00ffffff-no-rj",
+        "pfp": "https://pbs.twimg.com/profile_images/1647411185762062336/u85wpCAc_400x400.jpg",
         "description": "Helo im animate",
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/c/Hexalhaxel"
+                "url": "https://www.youtube.com/@Hexalhaxel"
+            },
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/imhexal_"
             }
         ]
     },
     {
         "user": "savia",
         "name": "SaVia01",
-        "pfp": "https://yt3.googleusercontent.com/PTeO3T5Nx1BpgkwZxmDURmk3r4V3Itn8P1yNHETKui5oHzm-AfO8pJ1w9jaJGPVuxz_XSx4Z=s160-c-k-c0x00ffffff-no-rj",
+        "pfp": "https://pbs.twimg.com/profile_images/1849689366798663681/yG7uB-Jz_400x400.jpg",
         "description": "Why do they call it Sav when you of in the Via food of out 01 eat the Sav?",
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UCFmLZpOectYN9VGcrz89KTA"
+                "url": "https://www.youtube.com/@SaVia-01"
+            },
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/SaVia01_"
             }
         ]
     },
@@ -335,19 +364,23 @@
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/@GeonWoo"
+                "url": "https://www.youtube.com/@GW_animator"
             }
         ]
     },
     {
         "user": "lelazy",
         "name": "LeLazyOne",
-        "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_ljd5ccjUpudHemOCErCtfNhLHb-dbcCAtxGxA0OoK2ucA=s176-c-k-c0x00ffffff-no-rj",
+        "pfp": "https://pbs.twimg.com/profile_images/1790440703312465920/vCDBLQlE_400x400.jpg",
         "description": "literature hell",
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UCIkyshtrRmsmPx4q0FqW-2w"
+                "url": "https://www.youtube.com/@LeLazyOne"
+            },
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/ItsLeLazyOne"
             }
         ]
     },
@@ -359,19 +392,19 @@
         "links": [
             {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/NizzyWitch"
+                "url": "https://x.com/NizzyWitch"
             }
         ]
     },
     {
         "user": "bapple",
-        "name": "bapple",
+        "name": "Bapple",
         "pfp": "https://yt3.googleusercontent.com/b_OJZ7XNFGMAAb54jvOJyVtRyGzwtyPH7D3MZtsvLt2xLDHZg7RRup_5abS4uoPVU82toPPkaQ0=s176-c-k-c0x00ffffff-no-rj",
         "description": "we alan baking with this one!!",
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UC21ygXw4HVIlU1SRjQsiA1A"
+                "url": "https://www.youtube.com/@BappoTheAppo"
             }
         ]
     },
@@ -390,18 +423,30 @@
     {
         "user": "scifi",
         "name": "Scifi",
-        "pfp": "https://pbs.twimg.com/profile_images/1786538399194587136/g9dIKNvV_400x400.jpg",
+        "pfp": "https://pbs.twimg.com/profile_images/1837740001083244544/otU19lgs_400x400.jpg",
         "description": "I do not like skibidi toilet but I do like bacon and eggs maple flavored",
         "links": [
             {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/fianimationsyt"
+                "url": "https://x.com/fianimationsyt"
+            }
+        ]
+    },
+    {
+        "user": "fllics",
+        "name": "Chloe",
+        "pfp": "https://pbs.twimg.com/profile_images/1809892745143619584/JiJO6qah_400x400.jpg",
+        "description": "i love alan becker content i Love this mod it's so cool i love all of it<h3>&nbsp;</h3>also i'm gay",
+        "links": [
+            {
+                "img": "https://cdn-icons-png.flaticon.com/512/2235/2235607.png",
+                "url": "https://fllics.carrd.co"
             }
         ]
     },
     {
         "user": "flandre",
-        "name": "Flandre",
+        "name": "Flandre Scarlet",
         "pfp": "https://i.pinimg.com/564x/4c/3a/a8/4c3aa8856eece225b9ae47bb18a75fd2.jpg",
         "description": "play touhou project",
         "links": []
@@ -409,15 +454,90 @@
     {
         "user": "primpink",
         "name": "Primpink",
-        "pfp": "https://pbs.twimg.com/profile_images/1784046625431633920/ohgRa4qF_400x400.jpg",
+        "pfp": "https://pbs.twimg.com/profile_images/1814871444976709632/_6tques-_400x400.jpg",
         "description": "👑<h3>&nbsp;</h3>🟣 IM 15 PROSHIPPERS DO NOT INTERACT!!!*<h3>&nbsp;</h3>#1 PURPLE FAN FOR 3 YEARS (hes my husband)*",
         "links": [
             {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/Primpinkk"
+                "url": "https://x.com/Primpinkk"
             }
         ]
     },
+    // Charters
+    {
+        "user": "sens",
+        "name": "Sensisgone",
+        "pfp": "https://pbs.twimg.com/profile_images/1829161832159850496/dgVWXWr3_400x400.jpg",
+        "description": "chapurato likes kissing men",
+        "links": [
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/Sensisgone"
+            }
+        ]
+    },
+    {
+        "user": "simox",
+        "name": "SimoxBanana",
+        "pfp": "https://yt3.googleusercontent.com/8OnqC2XqxO95KsNKIT-hPSZkzel2Gfk_WNRZ_CqEKfVQlm1ZGkSdNbsnePX6-7nJOW9G6hrWKQ=s176-c-k-c0x00ffffff-no-rj",
+        "description": "me",
+        "links": [
+            {
+                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
+                "url": "https://www.youtube.com/@SimoxBanana"
+            }
+        ]
+    },
+    {
+        "user": "boink",
+        "name": "Boink",
+        "pfp": "https://pbs.twimg.com/profile_images/1563036961967046659/h1-Uk_Xe_400x400.jpg",
+        "description": "MY NAM IS B OINK - helo i aninimat and chart stuiff,,, ( i cant drew)",
+        "links": [
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/boinky_woinky"
+            }
+        ]
+    },
+    {
+        "user": "golden",
+        "name": "Golden",
+        "pfp": "https://pbs.twimg.com/profile_images/1844071270121373697/dVCLsRZu_400x400.jpg",
+        "description": "BTW MR SQUIDWARD (swole boy) GIMME SOME TASTY DIRT I WANNA EAT YOU NEVER PAY MY JANITOR WORK GRRR DIE DIE DIE DIE DIE!",
+        "links": [
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/GoldennightX"
+            }
+        ]
+    },
+    {
+        "user": "waf",
+        "name": "syrupwaf",
+        "pfp": "https://pbs.twimg.com/profile_images/1847932139066515456/c7H5tI23_400x400.jpg",
+        "description": "Hello Vro 💙",
+        "links": [
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/syrupwaf"
+            }
+        ]
+    },
+    // Emotional Support
+    {
+        "user": "karn",
+        "name": "Karn",
+        "pfp": "https://pbs.twimg.com/profile_images/1752351117219135488/kiWMA1fk_400x400.jpg",
+        "description": "did you know that people who start running with left leg first have a higher chance to finish the race than people who don't have legs?",
+        "links": [
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/Karn_Knows"
+            }
+        ]
+    },
+    // Special Thanks
     {
         "user": "alanbecker",
         "name": "Alan Becker",
@@ -426,7 +546,11 @@
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UCbKWv2x9t6u8yZoB3KcPtnw"
+                "url": "https://www.youtube.com/@alanbecker"
+            },
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/alanthebecker"
             }
         ]
     },
@@ -438,7 +562,11 @@
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UCEgg3qOJI2Ep2Iq8ONE07DA"
+                "url": "https://www.youtube.com/@djwelchAvG"
+            },
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/DJWelchArt"
             }
         ]
     },
@@ -462,175 +590,39 @@
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UCUuUqWLLsUjheuYkP9AWxTA"
+                "url": "https://www.youtube.com/@ScottBuckley"
             }
         ]
     },
-    {
-        "user": "karn",
-        "name": "Karn",
-        "pfp": "https://pbs.twimg.com/profile_images/1752351117219135488/kiWMA1fk_400x400.jpg",
-        "description": "did you know that people who start running with left leg first have a higher chance to finish the race than people who don't have legs?",
-        "links": [
-            {
-                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/Karn_Knows"
-            }
-        ]
-    },
-    {
-        "user": "kontashu",
-        "name": "Kontashu",
-        "pfp": "https://pbs.twimg.com/profile_images/1771804312827543552/9co0_11h_400x400.jpg",
-        "description": "d",
-        "links": [
-            {
-                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/kyntatsu_"
-            }
-        ]
-    },
-    {
-        "user": "sensisgone",
-        "name": "Sensisgone",
-        "pfp": "https://pbs.twimg.com/profile_images/1808760930119135233/tIbs6Bl-_400x400.jpg",
-        "description": "chapurato likes kissing men",
-        "links": [
-            {
-                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/Sensisgone"
-            }
-        ]
-    },
-    {
-        "user": "simox",
-        "name": "SimoxBanana",
-        "pfp": "https://yt3.googleusercontent.com/8OnqC2XqxO95KsNKIT-hPSZkzel2Gfk_WNRZ_CqEKfVQlm1ZGkSdNbsnePX6-7nJOW9G6hrWKQ=s176-c-k-c0x00ffffff-no-rj",
-        "description": "me",
-        "links": [
-            {
-                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UC8cwN_xk8ugqL2_y7LPVOVA"
-            }
-        ]
-    },
-    {
-        "user": "boink",
-        "name": "Boink",
-        "pfp": "https://pbs.twimg.com/profile_images/1563036961967046659/h1-Uk_Xe_400x400.jpg",
-        "description": "MY NAM IS B OINK - helo i aninimat and chart stuiff,,, ( i cant drew)",
-        "links": [
-            {
-                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/boinky_woinky"
-            }
-        ]
-    },
-    {
-        "user": "golden",
-        "name": "Golden",
-        "pfp": "https://pbs.twimg.com/profile_images/1800640952744169473/FAOoVrBt_400x400.jpg",
-        "description": "BTW MR SQUIDWARD (swole boy) GIMME SOME TASTY DIRT I WANNA EAT YOU NEVER PAY MY JANITOR WORK GRRR DIE DIE DIE DIE DIE!",
-        "links": [
-            {
-                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/GoldennightX"
-            }
-        ]
-    },
-    {
-        "user": "syrupwaf",
-        "name": "syrupwaf",
-        "pfp": "https://pbs.twimg.com/profile_images/1809511718722097152/W3dru_RV_400x400.png",
-        "description": "Hello Vro 💙",
-        "links": [
-            {
-                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/syrupwaf"
-            }
-        ]
-    },
-    {
-        "user": "haylow",
-        "name": "Haylow",
-        "pfp": "https://yt3.googleusercontent.com/jyAmc35owtM6YyKfYfph-_glarKeuksKqGBbczTiWArJ2jANe2s5-g9wMRyZPAoZ_-AEcKZi=s176-c-k-c0x00ffffff-no-rj",
-        "description": "whats up doxxers",
-        "links": [
-            {
-                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/@hayliuem"
-            }
-        ]
-    },
-    {
-        "user": "az989",
-        "name": "Az989",
-        "pfp": "https://pbs.twimg.com/profile_images/1803704793631690753/LSku_z99_400x400.jpg",
-        "description": "Composed of a dream-like substance.",
-        "links": [
-            {
-                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/Az989YT"
-            }
-        ]
-    },
-    {
-        "user": "kixel",
-        "name": "Kixel",
-        "pfp": "https://pbs.twimg.com/profile_images/1804594133694390272/i_kwOy-7_400x400.jpg",
-        "description": "play holy quintet 🙂",
-        "links": [
-            {
-                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/KixelArt"
-            }
-        ]
-    },
-    {
-        "user": "tiburones",
-        "name": "Tiburones",
-        "pfp": "https://yt3.googleusercontent.com/hdAsCkkOk1ZHk0rA_shJ83Hisi6DLBrXhildtkATxkqNxep1GkFutO3HIApB_w1oWYQGpwPvFw=s176-c-k-c0x00ffffff-no-rj",
-        "description": "Twinkle of Contagion is a Passive Item added in the Spitshine update.<h3>&nbsp;</h3>Flavor text: 'Take the Shot'<h3>&nbsp;</h3>Item Pool: Treasure, Drug Dealer<h3>&nbsp;</h3>Quality: 2<h3>&nbsp;</h3>Item Tags: Syringe, Summonable, Offensive'",
-        "links": [
-            {
-                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UCuJM5h8kgRHyFNg56LsOjNw"
-            }
-        ]
-    },
-    {
-        "user": "tostitos",
-        "name": "Tostitos",
-        "pfp": "https://pbs.twimg.com/profile_images/1710349904395087872/KXpet2T8_400x400.jpg",
-        "description": "just a normal artist and animator",
-        "links": [
-            {
-                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/Toorynooo"
-            }
-        ]
-    },
+    // Former Modders
     {
         "user": "salty",
         "name": "Salty Sovet",
         "pfp": "https://cdn.discordapp.com/avatars/729412061355835543/3552366d6c6f7568b402691acb6a68bb.webp?size=240",
         "description": "Nah, I'd win",
+        "links": []
+    },
+    {
+        "user": "legoldenboots",
+        "name": "LeGoldenBoots",
+        "pfp": "https://legoldenboots.carrd.co/assets/images/image01.jpg?v=4d4dc51c",
+        "description": "heya, im legoldenboots.",
         "links": [
             {
-                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UC1qT2vh0aORFdHA4cVAHZUw"
+                "img": "https://cdn-icons-png.flaticon.com/512/2235/2235607.png",
+                "url": "https://legoldenboots.carrd.co"
             }
         ]
     },
     {
-        "user": "ekical",
-        "name": "Ekical",
-        "pfp": "https://yt3.googleusercontent.com/1iSB7U1wotk8nb4IW237f__wX-85a_7vTUVa72KkjvmNd2HfSecyBkjiJbUtCXMo6HAgebYQrg=s176-c-k-c0x00ffffff-no-rj",
-        "description": "i make stuff. 🇷🇴",
+        "user": "daninnocents",
+        "name": "Daninnocent",
+        "pfp": "https://pbs.twimg.com/profile_images/1738187247877521408/k-Zm73t__400x400.jpg",
+        "description": "I hyperfixate on random stuff mostly max payne tho | i can code sometimes ig | Minor (15)",
         "links": [
             {
-                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/c/Ekical"
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/Daninnocent_"
             }
         ]
     },
@@ -654,7 +646,7 @@
         "links": [
             {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/SkeletoaSans"
+                "url": "https://x.com/SkeletoaSans"
             }
         ]
     },
@@ -663,12 +655,7 @@
         "name": "PeaceHacker",
         "pfp": "https://yt3.googleusercontent.com/sXiC9frmo0uKVmO_i5-sa7AgnH2FVAgMV7FP9Ctu6hGn6sorhAiDEjxIDMdI2xOZwCqJiuQPzg=s176-c-k-c0x00ffffff-no-rj",
         "description": "I'm going to hack World Peace and make it Chaos (not really)*",
-        "links": [
-            {
-                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UC_AQOgKJ5WvDOGIOV_oTqog"
-            }
-        ]
+        "links": []
     },
     {
         "user": "reginald",
@@ -690,19 +677,79 @@
         "links": [
             {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/PhobiaDarei"
+                "url": "https://x.com/PhobiaDarei"
             }
         ]
     },
     {
-        "user": "reginald",
-        "name": "Reginald Reborn",
-        "pfp": "https://yt3.googleusercontent.com/8ix9Vax7TP_BAvYko7BQ4FtQLupfmGg6yqxq9EAX6ybxuM0sYWhRrMIjVjNpMpnkH8pYBDmgnis=s176-c-k-c0x00ffffff-no-rj",
-        "description": "hi<h3>&nbsp;</h3>idk what to put here",
+        "user": "ekical",
+        "name": "Ekical",
+        "pfp": "https://yt3.googleusercontent.com/1iSB7U1wotk8nb4IW237f__wX-85a_7vTUVa72KkjvmNd2HfSecyBkjiJbUtCXMo6HAgebYQrg=s176-c-k-c0x00ffffff-no-rj",
+        "description": "i make stuff. 🇷🇴",
         "links": [
             {
                 "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
-                "url": "https://www.youtube.com/channel/UCEqHSAUTzOAssJe8j4ZI3iw"
+                "url": "https://www.youtube.com/c/Ekical"
+            }
+        ]
+    },
+    {
+        "user": "tibu",
+        "name": "Tiburones",
+        "pfp": "https://yt3.googleusercontent.com/hdAsCkkOk1ZHk0rA_shJ83Hisi6DLBrXhildtkATxkqNxep1GkFutO3HIApB_w1oWYQGpwPvFw=s176-c-k-c0x00ffffff-no-rj",
+        "description": "Twinkle of Contagion is a Passive Item added in the Spitshine update.<h3>&nbsp;</h3>Flavor text: 'Take the Shot'<h3>&nbsp;</h3>Item Pool: Treasure, Drug Dealer<h3>&nbsp;</h3>Quality: 2<h3>&nbsp;</h3>Item Tags: Syringe, Summonable, Offensive'",
+        "links": [
+            {
+                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
+                "url": "https://www.youtube.com/channel/UCuJM5h8kgRHyFNg56LsOjNw"
+            }
+        ]
+    },
+    {
+        "user": "tostitos",
+        "name": "Tostitos",
+        "pfp": "https://pbs.twimg.com/profile_images/1710349904395087872/KXpet2T8_400x400.jpg",
+        "description": "just a normal artist and animator",
+        "links": [
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/Toorynooo"
+            }
+        ]
+    },
+    {
+        "user": "haylow",
+        "name": "Haylow",
+        "pfp": "https://yt3.googleusercontent.com/jyAmc35owtM6YyKfYfph-_glarKeuksKqGBbczTiWArJ2jANe2s5-g9wMRyZPAoZ_-AEcKZi=s176-c-k-c0x00ffffff-no-rj",
+        "description": "whats up doxxers",
+        "links": [
+            {
+                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
+                "url": "https://www.youtube.com/@hayliuem"
+            }
+        ]
+    },
+    {
+        "user": "az989",
+        "name": "Az989",
+        "pfp": "https://pbs.twimg.com/profile_images/1803704793631690753/LSku_z99_400x400.jpg",
+        "description": "Composed of a dream-like substance.",
+        "links": [
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/Az989YT"
+            }
+        ]
+    },
+    {
+        "user": "kixel",
+        "name": "Kixel",
+        "pfp": "https://pbs.twimg.com/profile_images/1804594133694390272/i_kwOy-7_400x400.jpg",
+        "description": "play holy quintet 🙂",
+        "links": [
+            {
+                "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
+                "url": "https://x.com/KixelArt"
             }
         ]
     },
@@ -726,19 +773,19 @@
         "links": [
             {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/MZeff111"
+                "url": "https://x.com/MZeff111"
             }
         ]
     },
     {
         "user": "ooum",
         "name": "ooum",
-        "pfp": "https://pbs.twimg.com/profile_images/1805648271211106305/uW1eOnLq_400x400.jpg",
+        "pfp": "https://pbs.twimg.com/profile_images/1831074801965834240/meVbZKH-_400x400.jpg",
         "description": "asian, produce and draw (the u in my name is silent 🤫🤫🤫🤫🤫)",
         "links": [
             {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/ooum2024"
+                "url": "https://x.com/ooum2024"
             }
         ]
     },
@@ -750,31 +797,38 @@
         "links": [
             {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/sp0reshroom"
+                "url": "https://x.com/sp0reshroom"
             }
         ]
     },
     {
-        "user": "legoldenboots",
-        "name": "LeGoldenBoots",
-        "pfp": "https://legoldenboots.carrd.co/assets/images/image01.jpg?v=4d4dc51c",
-        "description": "heya, im legoldenboots.",
+        "user": "idiotic",
+        "name": "Idiotic Sugar",
+        "pfp": "https://yt3.googleusercontent.com/Mkr7nxd3tQf2xgZbJ1hXhv_1zs7mDY7FqdVP_OwNNXaZ0PqTGGGrZZ54yuu0rdb0qPSqDwfui-Q=s176-c-k-c0x00ffffff-no-rj",
+        "description": "about me:<h3>&nbsp;</h3>Artist/Music Artist<h3>&nbsp;</h3>Mtf",
         "links": [
             {
-                "img": "https://cdn-icons-png.flaticon.com/512/2235/2235607.png",
-                "url": "https://legoldenboots.carrd.co"
+                "img": "https://www.pngall.com/wp-content/uploads/15/Black-YouTube-Logo-PNG-Image-File.png",
+                "url": "https://www.youtube.com/channel/UCvT7NQk_f401WzDZbQ-DidA"
             }
         ]
     },
     {
-        "user": "daninnocents",
-        "name": "Daninnocent",
-        "pfp": "https://pbs.twimg.com/profile_images/1738187247877521408/k-Zm73t__400x400.jpg",
-        "description": "I hyperfixate on random stuff mostly max payne tho | i can code sometimes ig | Minor (15)",
+        "user": "egglo",
+        "name": "Egglo",
+        "pfp": "https://yt3.googleusercontent.com/ve-u0BtmFzJYRpoLDrkioC0WO12hRnE279nPtVnSYcApP4RblBniRWP8w4u1-LMHhzuF0pOv=s176-c-k-c0x00ffffff-no-rj",
+        "description": "I make stupid music<h3>&nbsp;</h3>15 years of life",
+        "links": []
+    },
+    {
+        "user": "kontashu",
+        "name": "Kontashu",
+        "pfp": "https://pbs.twimg.com/profile_images/1826842611996307456/6ePzfQi8_400x400.jpg",
+        "description": "d",
         "links": [
             {
                 "img": "https://freepngimg.com/thumb/logo/62843-icons-media-twitter-computer-black-social-logo.png",
-                "url": "https://twitter.com/Daninnocent_"
+                "url": "https://x.com/kyntatsu_"
             }
         ]
     }
