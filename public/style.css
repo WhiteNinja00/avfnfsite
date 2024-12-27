@@ -5,7 +5,7 @@
 
 body {
   background: url("images/alanbg.webp") center center / cover no-repeat fixed;
-  font-family: Oswald;
+  font-family: "Goodbye Despair";
   text-align: center;
   color: white;
 }
@@ -88,7 +88,11 @@ body {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 50px;
+}
+
+h3 {
+  font-size: 25px;
 }
 
 img {
@@ -116,7 +120,7 @@ img {
 
 .header {
   padding: 15px;
-  font-size: 40px;
+  font-size: 60px;
   background-color: rgba(0, 0, 25, 0.3);
   width: fit-content;
   margin: auto;
