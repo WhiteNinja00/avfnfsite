@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>AvFNF</title>
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Oswald:400,700" media="screen"> 
     <link rel="stylesheet" href="style.css">
     <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script>
@@ -14,19 +13,12 @@
     </script>
     <title>Audio Player with Playlist Example </title>
     
+    <link href="https://db.onlinewebfonts.com/c/e18ab5369de762a772dbbf87da04f6a2?family=Goodbye+Despair" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
     <style>
       @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 @import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 *{ margin: 0; padding: 0;}
-body{
-  font-family: "Oswald";
-  font-style: normal;
-  font-weight: 300;
-  font-smoothing: antialiased;
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;
-  font-size: 15px;
-}
 .intro{
    background: #fff;
    padding: 60px 30px;
@@ -65,7 +57,7 @@ a.btn:hover{
 -webkit-transition: .3s;
 }
 .btn:before{
-  font-family: "Oswald";
+  font-family: var(--font);
   font-weight: normal;
   margin-right: 10px;
 }
@@ -82,7 +74,7 @@ a.btn:hover{
 
 }
 .credit span:before{
-  font-family: "Oswald";
+  font-family: var(--font);
    color: #e41b17;
    content: "\f004";
 
@@ -96,7 +88,7 @@ a.btn:hover{
    color: #1DBF73; 
 }
 .credit a:hover:after{
-  font-family: "Oswald";
+  font-family:var(--font);
     content: "\f08e";
     font-size: 9pt;
     position: absolute;
@@ -152,7 +144,7 @@ article p{
 .set-glass:after,
 .to-active:after,
 .set-sticky:after {
-	font-family: "Oswald";
+	font-family: var(--font);
 	font-size: 18pt;
 	position: relative;
 	float: right;
@@ -212,7 +204,7 @@ a,a:hover,a:visited{color:#ddd;text-decoration:none;}
 
 /* HTML5 Audio Player with Playlist, source: https://codepen.io/sekedus/pen/ExxjZEz */
 #simp button,#simp input,#simp img{border:0;}
-#simp{max-width:600px;font-size:14px;font-family: "Oswald", Tahoma, sans-serif;text-align:initial;line-height:initial;background:#17212b;color:#ddd;margin:0 auto;border-radius:20px;overflow:hidden;}
+#simp{max-width:600px;font-size:14px;font-family: var(--font), Tahoma, sans-serif;text-align:initial;line-height:initial;background:var(--navcol);color:var(--fontcolor);margin:0 auto;border-radius:20px;overflow:hidden;}
 #simp .simp-album{padding:20px 25px 5px;}
 #simp .simp-album .simp-cover{margin-right:20px;}
 #simp .simp-album .simp-cover img{max-width:80px;width:100%;margin:0;padding:0;display:block;}
@@ -249,7 +241,7 @@ a,a:hover,a:visited{color:#ddd;text-decoration:none;}
 #simp ul li:last-child{padding-bottom:13px;}
 #simp ul li:nth-child(odd){background:#0e1621;}
 #simp ul li:hover{background:#242f3d;}
-#simp ul li.simp-active{background:#0E86D4;color:#000000;}
+#simp ul li.simp-active{background:var(--highlight);color:var(--fontcolor2);}
 #simp ul li .simp-desc{font-size:90%;opacity:.5;margin-left:5px;}
 /* playlist scrollbar */
 #simp ul{overflow-y:auto;overflow-x:hidden;scrollbar-color:#73797f #2f3841;}
@@ -273,7 +265,7 @@ a,a:hover,a:visited{color:#ddd;text-decoration:none;}
 <body>
   <div id="includeHtml"></div>
   <section id="body">
-    <h1>&nbsp;</h1>
+    <br><br>
     <main>
       <!-- Start DEMO HTML (Use the following code into your project)-->
   <div class="simple-audio-player" id="simp" data-config='{"shide_top":false,"shide_btm":false,"auto_load":false}'>
@@ -306,12 +298,9 @@ a,a:hover,a:visited{color:#ddd;text-decoration:none;}
  </div>    
       <!-- END EDMO HTML (Happy Coding!)-->
   </main>
-    <h1>&nbsp;</h1>
+  <br><br>
   </section>
-  <h3>&nbsp;</h3>
-  <h1>&nbsp;</h1>
-  <h1>&nbsp;</h1>
-  <h1>&nbsp;</h1>
+  <br><br><br><br><br><br><br><br><br><br>
   <script>
     /*
 Example: https://www.codehim.com/demo/javascript-audio-player-with-playlist/

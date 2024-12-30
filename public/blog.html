@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AvFNF</title>
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Oswald:400,700" media="screen">
-    <link rel="stylesheet" href="blogstyle.css">
+    <link href="https://db.onlinewebfonts.com/c/e18ab5369de762a772dbbf87da04f6a2?family=Goodbye+Despair" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
     <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script>
        $(function() {
@@ -16,26 +16,17 @@
   <body>
     <div id="includeHtml"></div>
     <section id="body">
-      <h2>&nbsp;</h2>
-      <h3>&nbsp;</h3>
+      <br><br>
       <div class="header">
         <h2>AVFNF Blog</h2>
       </div>
-      <h2>&nbsp;</h2>
+      <br>
       <section id="blogs"></section>
       <div class="footer">
         <h2>You've reached the end</h2>
       </div>
     </section>
-    <h3>&nbsp;</h3>
-    <h3>&nbsp;</h3>
-    <h3>&nbsp;</h3>
-    <h3>&nbsp;</h3>
-    <h3>&nbsp;</h3>
-    <h3>&nbsp;</h3>
-    <h3>&nbsp;</h3>
-    <h3>&nbsp;</h3>
-    <h3>&nbsp;</h3>
+    <br><br><br><br><br><br><br><br><br><br>
     <script>
       fetch('./blogs.json').then((response) => response.json()).then((json) => {
         for(var i=0; i < json.length; i++) {
@@ -44,19 +35,18 @@
               '<section id="profile">' +
                 '<a class="'+ json[i].writer +'"></a>'+
               '</section></a>'+
-              '<h2>&nbsp;</h2>'+
-              '<h3>&nbsp;</h3>'+
+              '<br><br><br><br>'+
               '<a href="blogpost.html?postid='+json[i].id+'"><section id="blogtitle">'+
                 '<h1>'+json[i].title+'</h1>'+
-                '<h3>&nbsp;</h3>'+
+                '<br>'+
                 '<h2>View More</h2>'+
               '</section></a>'+
-              '<h3>&nbsp;</h3>'+
+              '<br>'+
               '<section id="blogdate">'+
                 '<small>'+json[i].date+'</small>'+
               '</section>'+
             '</section>'+
-            '<h2>&nbsp;</h2>');
+            '<br>');
           getcredit(json[i].writer);
         }
       })

@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>AvFNF</title>
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Oswald:400,700" media="screen">
+    <link href="https://db.onlinewebfonts.com/c/e18ab5369de762a772dbbf87da04f6a2?family=Goodbye+Despair" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <style>
       .section {
@@ -16,9 +16,9 @@
       #body a {
         padding: 5px;
         line-height: 40px;
-        color: #FFFFFF;
+        color: var(--fontcolor);
         text-decoration: none;
-        background-color:rgb(0, 0, 25, 0.3);
+        background-color: var(--transparent);
         border-radius: 10px;
         white-space: nowrap;
         margin: 2.5px;
@@ -26,8 +26,8 @@
       }
 
       #body a:hover {
-        color: #000000;
-        background-color: #0E86D4;
+        color: var(--fontcolor2);
+        background-color: var(--highlight);
       }
 
       #body a img {
@@ -48,9 +48,7 @@
   <body>
     <div id="includeHtml"></div>
     <section id="body">
-      <h3>&nbsp;</h3>
-      <h3>&nbsp;</h3>
-      <h3>&nbsp;</h3>
+      <br><br><br><br>
       <h1>● DIRECTORS</h1>
       <div class="section">
         <a class="chap"></a>
@@ -58,16 +56,14 @@
         <a class="kayla"></a>
         <a class="jace"></a>
       </div>
-      <h1>&nbsp;</h1>
-      <h1>&nbsp;</h1>
+      <br><br><br><br>
       <h1>● CO-DIRECTORS</h1>
       <div class="section">
         <a class="atomixx"></a>
         <a class="bee"></a>
         <a class="serk"></a>
       </div>
-      <h1>&nbsp;</h1>
-      <h1>&nbsp;</h1>
+      <br><br><br><br>
       <h1>● CODERS</h1>
       <div class="section">
         <a class="whiteninja"></a>
@@ -76,8 +72,7 @@
         <a class="zhamp"></a>
         <a class="x10v"></a>
       </div>
-      <h1>&nbsp;</h1>
-      <h1>&nbsp;</h1>
+      <br><br><br><br>
       <h1>● MUSICIANS</h1>
       <div class="section">
         <a class="lse"></a>
@@ -97,8 +92,7 @@
         <a class="saku"></a>
         <a class="stamps"></a>
       </div>
-      <h1>&nbsp;</h1>
-      <h1>&nbsp;</h1>
+      <br><br><br><br>
       <h1>● ARTISTS/ANIMATORS</h1>
       <div class="section">
         <a class="cheese"></a>
@@ -123,8 +117,7 @@
         <a class="fatfunk"></a>
         <a class="mars"></a>
       </div>
-      <h1>&nbsp;</h1>
-      <h1>&nbsp;</h1>
+      <br><br><br><br>
       <h1>● CHARTERS</h1>
       <div class="section">
         <a class="whiteninja"></a>
@@ -136,8 +129,7 @@
         <a class="golden"></a>
         <a class="waf"></a>
       </div>
-      <h1>&nbsp;</h1>
-      <h1>&nbsp;</h1>
+      <br><br><br><br>
       <h1>● FORMER DEVS</h1>
       <div class="section">
         <a class="haylow"></a>
@@ -162,15 +154,13 @@
         <a class="lost"></a>
         <a class="idiotic"></a>
       </div>
-      <h1>&nbsp;</h1>
-      <h1>&nbsp;</h1>
+      <br><br><br><br>
       <h1>● EMOTIONAL SUPPORT</h1>
       <div class="section">
         <a class="karn"></a>
         <a class="kontashu"></a>
       </div>
-      <h1>&nbsp;</h1>
-      <h1>&nbsp;</h1>
+      <br><br><br><br>
       <h1>● SPECIAL THANKS</h1>
       <div class="section">
         <a class="alanbecker"></a>
@@ -178,13 +168,7 @@
         <a class="skim"></a>
         <a class="scottbuckley"></a>
       </div>
-      <h1>&nbsp;</h1>
-      <h1>&nbsp;</h1>
-      <h1>&nbsp;</h1>
-      <h1>&nbsp;</h1>
-      <h3>&nbsp;</h3>
-      <h3>&nbsp;</h3>
-      <h3>&nbsp;</h3>
+      <br><br><br><br><br><br><br><br><br><br>
       <script>
         fetch('./profiles.json').then((response) => response.json()).then((json) => {
           for(var i=0; i < json.length; i++) {

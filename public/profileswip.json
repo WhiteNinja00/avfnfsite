@@ -1,0 +1,11 @@
+{
+    "Sir Chapurato": {
+        "pfp": "https://pbs.twimg.com/profile_images/1860703088996401152/7UDojaer_400x400.jpg",
+        "description": "it's me chapurato I'm back I was the first director on this mod and I chart stuff 😁",
+        "roles": ["director", "charter"],
+        "links": [
+            {"youtube": "https://www.youtube.com/@Chapurato"},
+            {"x": "https://x.com/SirChapurato"}
+        ]
+    }
+}

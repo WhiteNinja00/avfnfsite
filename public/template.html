@@ -1,5 +1,102 @@
 <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Oswald:400,700" media="screen"> 
-<link rel="stylesheet" href="templatestyle.css">
+<style>
+  .topnav {
+    width: 100%;
+    background-color: var(--navcol);
+    overflow: hidden;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+  }
+
+  .topnav a {
+    float: left;
+    color: var(--fontcolor);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 74%;
+  }
+
+  .topnav a:hover {
+    background-color: var(--highlight);
+    color: var(--fontcolor2);
+  }
+
+  footer {
+    background-color: var(--navcol);
+    color: var(--fontcolor);
+    text-align: center;
+    font-size: 10px;
+  }
+
+  .footerContainer {
+    width: 100%;
+    padding: 12px 0 25px;
+    padding-right: 10%;
+  }
+
+  #logo {
+    padding-left: 10%;
+    height: 90px;
+    float: left;
+  }
+
+  .socialIcons {
+    display: flex;
+    justify-content: center;
+  }
+
+  .socialIcons a {
+    background-color: var(--fontcolor);
+    width: 55px;
+    height: 55px;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    filter: invert(1);
+  }
+
+  .socialIcons a:hover {
+    background-color: var(--highlight);
+    filter: invert(0);
+  }
+
+  .socialIcons img {
+    max-width: 35px;
+    max-height: 35px;
+  }
+
+  footer {
+    position: absolute;
+    margin: 0;
+    max-height: 100%;
+    box-sizing: inherit;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+
+  body {
+    position: relative;
+    margin: 0;
+    min-height: 100%;
+  }
+
+  html {
+    height: 100%;
+  }
+
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+</style>
 <html>
   <body>
     <div class="topnav">
@@ -28,7 +125,7 @@
         <h1>Also find us at:</h1>
           <div class="socialIcons">
             <a href="https://twitter.com/AnimationVsFNF">
-              <img src="images/twitter.webp">
+              <img src="images/x.webp">
             </a>
             <a href="https://discord.com/invite/Gaad8f2PUt">
               <img src="images/discord.webp">
