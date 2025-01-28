@@ -92,12 +92,13 @@
       function getcredit(name) {
         const element = document.querySelectorAll('.' + name);
         element.forEach(element => {
-          element.href = 'profiles.html?name=' + name;
           fetch('./profiles.json').then((response) => response.json()).then((json) => {
-            for(var i=0; i < json.length; i++) {
-              if(json[i].user == name) {
-                element.innerHTML = "<img src='" + json[i].pfp + "'>";
-                element.innerHTML += json[i].name;
+            for (let username in json) {
+              const user = json[username];
+              if(user.blogname === name) {
+                element.innerHTML = "<img src='" + user.pfp + "'>";
+                element.innerHTML += username;
+                element.href = 'profiles.html?name=' + username;
               }
             }
           })

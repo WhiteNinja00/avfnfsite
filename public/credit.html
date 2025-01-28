@@ -49,138 +49,63 @@
     <div id="includeHtml"></div>
     <section id="body">
       <br><br><br><br>
-      <h1>● DIRECTORS</h1>
-      <div class="section">
-        <a class="chap"></a>
-        <a class="noogai"></a>
-        <a class="kayla"></a>
-        <a class="jace"></a>
-      </div>
-      <br><br><br><br>
-      <h1>● CO-DIRECTORS</h1>
-      <div class="section">
-        <a class="atomixx"></a>
-        <a class="bee"></a>
-        <a class="serk"></a>
-      </div>
-      <br><br><br><br>
-      <h1>● CODERS</h1>
-      <div class="section">
-        <a class="whiteninja"></a>
-        <a class="mijae"></a>
-        <a class="fllics"></a>
-        <a class="zhamp"></a>
-        <a class="ner0"></a>
-      </div>
-      <br><br><br><br>
-      <h1>● MUSICIANS</h1>
-      <div class="section">
-        <a class="lse"></a>
-        <a class="top10"></a>
-        <a class="spoon"></a>
-        <a class="bee"></a>
-        <a class="surge"></a>
-        <a class="atomixx"></a>
-        <a class="kayla"></a>
-        <a class="chaotrix"></a>
-        <a class="liz"></a>
-        <a class="sic"></a>
-        <a class="jace"></a>
-        <a class="vader"></a>
-        <a class="alberton"></a>
-        <a class="skwoop"></a>
-        <a class="saku"></a>
-        <a class="stamps"></a>
-      </div>
-      <br><br><br><br>
-      <h1>● ARTISTS/ANIMATORS</h1>
-      <div class="section">
-        <a class="cheese"></a>
-        <a class="serk"></a>
-        <a class="noogai"></a>
-        <a class="oja"></a>
-        <a class="hexal"></a>
-        <a class="savia"></a>
-        <a class="geonwoo"></a>
-        <a class="jesus"></a>
-        <a class="bee"></a>
-        <a class="kayla"></a>
-        <a class="lelazy"></a>
-        <a class="nizzy"></a>
-        <a class="bapple"></a>
-        <a class="deserved"></a>
-        <a class="scifi"></a>
-        <a class="fllics"></a>
-        <a class="flandre"></a>
-        <a class="primpink"></a>
-        <a class="anton"></a>
-        <a class="fatfunk"></a>
-        <a class="mars"></a>
-      </div>
-      <br><br><br><br>
-      <h1>● CHARTERS</h1>
-      <div class="section">
-        <a class="whiteninja"></a>
-        <a class="noogai"></a>
-        <a class="chap"></a>
-        <a class="sens"></a>
-        <a class="simox"></a>
-        <a class="boink"></a>
-        <a class="golden"></a>
-        <a class="waf"></a>
-      </div>
-      <br><br><br><br>
-      <h1>● FORMER DEVS</h1>
-      <div class="section">
-        <a class="haylow"></a>
-        <a class="az989"></a>
-        <a class="kixel"></a>
-        <a class="tibu"></a>
-        <a class="tostitos"></a>
-        <a class="salty"></a>
-        <a class="ekical"></a>
-        <a class="johndaily"></a>
-        <a class="cancerpenguin"></a>
-        <a class="peacehacker"></a>
-        <a class="reginald"></a>
-        <a class="dareiphobia"></a>
-        <a class="sulfur"></a>
-        <a class="zeff"></a>
-        <a class="ooum"></a>
-        <a class="sp0re"></a>
-        <a class="legoldenboots"></a>
-        <a class="daninnocents"></a>
-        <a class="egglo"></a>
-        <a class="lost"></a>
-        <a class="idiotic"></a>
-      </div>
-      <br><br><br><br>
-      <h1>● EMOTIONAL SUPPORT</h1>
-      <div class="section">
-        <a class="karn"></a>
-        <a class="kontashu"></a>
-      </div>
-      <br><br><br><br>
-      <h1>● SPECIAL THANKS</h1>
-      <div class="section">
-        <a class="alanbecker"></a>
-        <a class="djwelch"></a>
-        <a class="skim"></a>
-        <a class="scottbuckley"></a>
-      </div>
-      <br><br><br><br><br><br><br><br><br><br>
       <script>
-        fetch('./profiles.json').then((response) => response.json()).then((json) => {
-          for(var i=0; i < json.length; i++) {
-            const element = document.querySelectorAll('.' + json[i].user);
-            element.forEach(element => {
-              element.href = 'profiles.html?name=' + json[i].user;
-              element.innerHTML = "<img src='" + json[i].pfp + "'>";
-              element.innerHTML += json[i].name;
+        fetch('./profiles.json').then((response) => response.json()).then((profiles) => {
+          const profilesArray = Object.entries(profiles).map(([name, data]) => ({
+            ...data,
+            name,
+          }));
+          
+          const rolesMap = {};
+          
+          profilesArray.forEach((profile) => {
+            (profile.roles || []).forEach((role) => {
+              if (!rolesMap[role]) rolesMap[role] = [];
+              rolesMap[role].push(profile);
             });
-          }
-        })
+          });
+          
+          const roleOrder = [
+            "DIRECTORS",
+            "CO-DIRECTORS",
+            "CODERS",
+            "MUSICIANS",
+            "ARTISTS/ANIMATORS",
+            "CHARTERS",
+            "FORMER DEVS",
+            "EMOTIONAL SUPPORT",
+            "SPECIAL THANKS"
+          ];
+          
+          const body = document.getElementById('body');
+          
+          roleOrder.forEach((role) => {
+            if (rolesMap[role]) {
+              const roleHeader = document.createElement('h1');
+              roleHeader.textContent = `● ${role}`;
+              body.appendChild(roleHeader);
+              
+              const section = document.createElement('div');
+              section.className = 'section';
+              
+              rolesMap[role].forEach((profile) => {
+                const link = document.createElement('a');
+                link.href = `profiles.html?name=${profile.name}`;
+                link.className = profile.name;
+                link.innerHTML = `<img src='${profile.pfp}' alt='${profile.name}'>${profile.name}`;
+                section.appendChild(link);
+              });
+              
+              body.appendChild(section);
+              body.appendChild(document.createElement('br'));
+              body.appendChild(document.createElement('br'));
+              body.appendChild(document.createElement('br'));
+              body.appendChild(document.createElement('br'));
+            }
+          });
+        });
       </script>
     </section>
+    <br><br><br><br><br>
   </body>
 </html>
