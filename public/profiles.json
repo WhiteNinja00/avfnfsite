@@ -912,3 +912,592 @@
         ]
     }
 ]
+{
+  "Sir Chapurato": {
+    "blogname": "chap",
+    "pfp": "https://pbs.twimg.com/profile_images/1860703088996401152/7UDojaer_400x400.jpg",
+    "description": "it's me chapurato I'm back I was the first director on this mod and I chart stuff 😁",
+    "roles": ["DIRECTORS", "CHARTERS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@Chapurato"},
+      {"x": "https://x.com/SirChapurato"}
+    ]
+  },
+  "noogai9876": {
+    "blogname": "noogai",
+    "pfp": "https://pbs.twimg.com/profile_images/1723531601228009472/EYBoo70G_400x400.jpg",
+    "description": "Hi guys im noogai9876 im kayla's fellow director and i did a ton of sprite art, cutscenes and song events for the mod. Hope you enjoy! <br>I'm TCO week 1",
+    "roles": ["DIRECTORS", "CHARTERS", "ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@noogai9876"},
+      {"x": "https://x.com/noogai9876"}
+    ]
+  },
+  "HeyItsKayla": {
+    "blogname": "kayla",
+    "pfp": "https://pbs.twimg.com/profile_images/1855002576132997120/-1iNAudD_400x400.jpg",
+    "description": "hi guys!! im kayla!! ive been directing this mod for over a year & i might just pass out & die bcuz of it!! hope u guys enjoy the mod :)",
+    "roles": ["DIRECTORS", "MUSICIANS", "ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@swoleboiproductions"},
+      {"x": "https://x.com/heyitsmekayla__"}
+    ]
+  },
+  "Atomixx": {
+    "pfp": "https://pbs.twimg.com/profile_images/1735149689241030656/H6ePYI-x_400x400.jpg",
+    "description": "mocha frappe",
+    "roles": ["CO-DIRECTORS", "MUSICIANS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@imjustatomixx"},
+      {"x": "https://x.com/imjustatomixx"}
+    ]
+  },
+  "Yes, It's Bee": {
+    "pfp": "https://pbs.twimg.com/profile_images/1861216338213249028/ankurfGG_400x400.jpg",
+    "description": "Why do they call it Yes when you of in the Its food of out Bee eat the Yes?",
+    "roles": ["CO-DIRECTORS", "MUSICIANS", "ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@YesItsbee"},
+      {"x": "https://x.com/yesitsbee1"}
+    ]
+  },
+  "Serkoid": {
+    "pfp": "https://pbs.twimg.com/profile_images/1548261276329029633/5Xgfv6Q2_400x400.jpg",
+    "description": "I make stuff",
+    "roles": ["CO-DIRECTORS", "ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@Serkoid"},
+      {"x": "https://x.com/SerkoidYT"}
+    ]
+  },
+  "whiteninja00": {
+    "pfp": "https://pbs.twimg.com/profile_images/1737937296282779648/-VTHxazG_400x400.jpg",
+    "description": "Hey guys! im the dude who made this cool website for yall <br>i coded a bunch of other stuff for avfnf",
+    "roles": ["CODERS", "CHARTERS"],
+    "links": [
+      {"website": "https://www.whiteninja00.com/"}
+    ]
+  },
+  "MijaeLio": {
+    "pfp": "https://pbs.twimg.com/profile_images/1443682375049826308/Ae7lXgoT_400x400.jpg",
+    "description": "🇵🇪",
+    "roles": ["CODERS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@MijaeLio"},
+      {"x": "https://x.com/MijaeLio"}
+    ]
+  },
+  "Spoon Dice Music": {
+    "pfp": "https://pbs.twimg.com/profile_images/1625744802074529792/7UNanslk_400x400.jpg",
+    "description": "im spoondicemusic, i made some of the music for this mod lol",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@SpoonDiceMusic"},
+      {"x": "https://x.com/SpoonDiceMusic"}
+    ]
+  },
+  "Surge SPB": {
+    "pfp": "https://yt3.googleusercontent.com/Ji5VsK4GMUcHHAkhX_Zbk0mVnxCiAR9wQlhgOZJ10T7kOuOdwP8wNB7rpbpF8_2xf2XTxXUpIA=s160-c-k-c0x00ffffff-no-rj",
+    "description": "Producer, I make what I feel like, expect a lot of Breakcore and Hardstyle mixed with some other random things. <br>I only make FNF songs for and with close friends, so expect less of that. <br>If you'd like to contact me, here is my Discord: @surgespb",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@SurgeSPB"}
+    ]
+  },
+  "The Lost Gamer": {
+    "pfp": "https://yt3.googleusercontent.com/qo_AtMHwXiiruOPCqDtWxlZwW4Ll0hg8Zx9lfCXDe5AvM_ev3yriKOoaGdBECyvw4Qfb6cMnbZQ=s176-c-k-c0x00ffffff-no-rj",
+    "description": "▪︎ Romanian <br>▪︎ Composer",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@LostsStuff"}
+    ]
+  },
+  "longestsoloever": {
+    "pfp": "https://pbs.twimg.com/profile_images/1675145535748034562/cRjpvVrD_400x400.jpg",
+    "description": "Dean DiMarzo 🎸 Nerdcore / metal artist, He/Him",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@longestsoloever"},
+      {"x": "https://x.com/longestsoloever"}
+    ]
+  },
+  "Top 10 Awesome": {
+    "pfp": "https://pbs.twimg.com/profile_images/1509287747520978946/UL9dW3O9_400x400.jpg",
+    "description": "a 10 top channel <br>Chop your own wood and it will warm you twice",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@Top10Awesome"},
+      {"x": "https://x.com/top10awesome3"}
+    ]
+  },
+  "Chaotrix": {
+    "pfp": "https://cdn.discordapp.com/avatars/502726904487346187/724c11acbd38a5f03f88820627819948?size=1024",
+    "description": "Hi, I am the #1 lurker in fnf and every time I appear in a mod I want to make everyone shit brick. I worked on a bunch of songs and scales and yell at every flaw a song in this mod have",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"x": "https://x.com/ChaotrixFnf"}
+    ]
+  },
+  "Lizzelpy": {
+    "pfp": "https://pbs.twimg.com/profile_images/1868259143313731584/PGWN2FSe_400x400.jpg",
+    "description": "i made a song",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@Hazelpy"},
+      {"x": "https://x.com/lizzelpy"}
+    ]
+  },
+  "Sic": {
+    "pfp": "https://pbs.twimg.com/profile_images/1850476971706187776/iISP3-8-_400x400.jpg",
+    "description": "Hi! im an average musician fnf and not fnf with 5 years of experience (im still pretty average) <br>i speak three silly languages: IT/EN/ES",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"x": "https://x.com/_SicOn_"}
+    ]
+  },
+  "JaceLOL": {
+    "blogname": "jace",
+    "pfp": "https://i1.sndcdn.com/avatars-yvXZDkGewUJsunSJ-ThY9jQ-t1080x1080.jpg",
+    "description": "always pray to god.",
+    "roles": ["DIRECTORS", "MUSICIANS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@JaceLOL_"},
+      {"x": "https://x.com/JaceLOL_Real"}
+    ]
+  },
+  "Vaderlings": {
+    "pfp": "https://pbs.twimg.com/media/Gc4Q9UDXoAAPdHr.png",
+    "description": "help me i got dragged here and they wont let me out please i havent eaten in 3 months",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@vaderlings"},
+      {"x": "https://x.com/vaderlings"}
+    ]
+  },
+  "Alberton": {
+    "pfp": "https://yt3.googleusercontent.com/G8eltNYCdtRuNShaCFqjuCaHjiujQc3m1RA6fAkx_wDQZzhLrm-38ZJUEKQp2HOjzY2pmQ-yOw=s176-c-k-c0x00ffffff-no-rj",
+    "description": "I like smashing balls",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@alberton108"}
+    ]
+  },
+  "skwoop": {
+    "pfp": "https://cdn.discordapp.com/avatars/770854816464764969/f8eda23f127bc4b89f34d755b0b88e52?size=1024",
+    "description": "melancholy heart eat me.. i hope it eat you too.. ver net",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"x": "https://x.com/itsallfuckein"}
+    ]
+  },
+  "Cheese Farmer": {
+    "pfp": "https://yt3.googleusercontent.com/ildyXIJVPI5hyU_bI9P6s1c7yqV7TyqPfG222T9_CVpMKXIshY4IOjOv_G7mu_SR2zCjJWeC=s160-c-k-c0x00ffffff-no-rj",
+    "description": "uhhh would you rather have unlimited fnf but no games, but unlimited games and no games",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@cheesefarmer6139"}
+    ]
+  },
+  "O Jogador Animador": {
+    "pfp": "https://pbs.twimg.com/profile_images/1802313150076719104/ny9p5oZH_400x400.jpg",
+    "description": "18 / 🇵🇹 <br>animator / artist <br>Alan Becker fan",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@OJogadorAnimador"},
+      {"x": "https://x.com/AnimadorJogador"}
+    ]
+  },
+  "Hexal": {
+    "pfp": "https://pbs.twimg.com/profile_images/1647411185762062336/u85wpCAc_400x400.jpg",
+    "description": "Helo im animate",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@Hexalhaxel"},
+      {"x": "https://x.com/imhexal_"}
+    ]
+  },
+  "SaVia01": {
+    "pfp": "https://pbs.twimg.com/profile_images/1872488429063491584/SggfXEo9_400x400.jpg",
+    "description": "Why do they call it Sav when you of in the Via food of out 01 eat the Sav?",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@SaVia-01"},
+      {"x": "https://x.com/SaVia01_"}
+    ]
+  },
+  "GeonWoo": {
+    "pfp": "https://yt3.googleusercontent.com/yqepsfnUVjIOfAhKRKo0Byb1406Rez3O-8np2mqrr42NXClPsVtsM8_63WqAgjk47maB59L3DUc=s176-c-k-c0x00ffffff-no-rj",
+    "description": "need some coffee",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@GW_animator"}
+    ]
+  },
+  "LeLazyOne": {
+    "pfp": "https://pbs.twimg.com/profile_images/1790440703312465920/vCDBLQlE_400x400.jpg",
+    "description": "literature hell",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@LeLazyOne"},
+      {"x": "https://x.com/ItsLeLazyOne"}
+    ]
+  },
+  "NizzyWitch": {
+    "pfp": "https://pbs.twimg.com/profile_images/1799598377459384320/BJWd35t2_400x400.jpg",
+    "description": "okay chat opinions on hot buff oily men",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"x": "https://x.com/NizzyWitch"}
+    ]
+  },
+  "Bapple": {
+    "pfp": "https://yt3.googleusercontent.com/b_OJZ7XNFGMAAb54jvOJyVtRyGzwtyPH7D3MZtsvLt2xLDHZg7RRup_5abS4uoPVU82toPPkaQ0=s176-c-k-c0x00ffffff-no-rj",
+    "description": "we alan baking with this one!!",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@BappoTheAppo"}
+    ]
+  },
+  "The Deserved One": {
+    "pfp": "https://yt3.googleusercontent.com/_Tj8swCwWf3BFRTz5HSGUW0SIY0wnYs0TFMKW9-utuQqKpLH-kor3SHK_ilhciW0xl4op4jNIA=s176-c-k-c0x00ffffff-no-rj",
+    "description": "Hey, I’m The Deserved One. I did most of the freeplay art for this mod, and also the creator of the “The Deserved One” character. Hope you like the mod.",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@thedeservedone"}
+    ]
+  },
+  "Scifi": {
+    "pfp": "https://pbs.twimg.com/profile_images/1837740001083244544/otU19lgs_400x400.jpg",
+    "description": "I do not like skibidi toilet but I do like bacon and eggs maple flavored",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"x": "https://x.com/fianimationsyt"}
+    ]
+  },
+  "Claire": {
+    "pfp": "https://pbs.twimg.com/profile_images/1853866459870461952/zLDTsNGU_400x400.jpg",
+    "description": "i love alan becker content i Love this mod it's so cool i love all of it <br>also i'm gay",
+    "roles": ["CODERS", "ARTISTS/ANIMATORS"],
+    "links": [
+      {"website": "https://fllics.carrd.co"}
+    ]
+  },
+  "Flandre Scarlet": {
+    "pfp": "https://i.pinimg.com/564x/4c/3a/a8/4c3aa8856eece225b9ae47bb18a75fd2.jpg",
+    "description": "play touhou project",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": []
+  },
+  "Primpink": {
+    "pfp": "https://pbs.twimg.com/profile_images/1814871444976709632/_6tques-_400x400.jpg",
+    "description": "👑 <br>🟣 IM 15 PROSHIPPERS DO NOT INTERACT!!!* <br>#1 PURPLE FAN FOR 3 YEARS (hes my husband)*",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"x": "https://x.com/Primpinkk"}
+    ]
+  },
+  "Sensisgone": {
+    "pfp": "https://pbs.twimg.com/profile_images/1872326463086825473/sPep6bcz_400x400.jpg",
+    "description": "chapurato likes kissing men",
+    "roles": ["CHARTERS"],
+    "links": [
+      {"x": "https://x.com/Sensisgone"}
+    ]
+  },
+  "SimoxBanana": {
+    "pfp": "https://yt3.googleusercontent.com/8OnqC2XqxO95KsNKIT-hPSZkzel2Gfk_WNRZ_CqEKfVQlm1ZGkSdNbsnePX6-7nJOW9G6hrWKQ=s176-c-k-c0x00ffffff-no-rj",
+    "description": "me",
+    "roles": ["CHARTERS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@SimoxBanana"}
+    ]
+  },
+  "Boink": {
+    "pfp": "https://pbs.twimg.com/profile_images/1563036961967046659/h1-Uk_Xe_400x400.jpg",
+    "description": "MY NAM IS B OINK - helo i aninimat and chart stuiff,,, ( i cant drew)",
+    "roles": ["CHARTERS"],
+    "links": [
+      {"x": "https://x.com/boinky_woinky"}
+    ]
+  },
+  "Golden": {
+    "pfp": "https://pbs.twimg.com/profile_images/1872800745256312832/qWGSyLOA_400x400.jpg",
+    "description": "BTW MR SQUIDWARD GIMME SOME TASTY DIRT I WANNA EAT YOU NEVER PAY MY JANITOR WORK GRRR DIE DIE DIE DIE DIE!",
+    "roles": ["CHARTERS"],
+    "links": [
+      {"x": "https://x.com/GoldennightX"}
+    ]
+  },
+  "syrupwaf": {
+    "pfp": "https://pbs.twimg.com/profile_images/1869149785195745284/VGJt2xTU_400x400.jpg",
+    "description": "Hello Vro 💙",
+    "roles": ["CHARTERS"],
+    "links": [
+      {"x": "https://x.com/syrupwaf"}
+    ]
+  },
+  "Karn": {
+    "pfp": "https://pbs.twimg.com/profile_images/1752351117219135488/kiWMA1fk_400x400.jpg",
+    "description": "did you know that people who start running with left leg first have a higher chance to finish the race than people who don't have legs?",
+    "roles": ["EMOTIONAL SUPPORT"],
+    "links": [
+      {"x": "https://x.com/Karn_Knows"}
+    ]
+  },
+  "Alan Becker": {
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_nT0JlrKAobtCUAdujd2rT0BpbN2Ln8fP023lGOnq_CGOM=s176-c-k-c0x00ffffff-no-rj",
+    "description": "My name is Alan Becker! Maybe you saw my 'Animator vs. Animation' when it became a viral video in 2006. I make stick figure animations that take place on a computer desktop screen. There is no dialogue, but a lot of humor and emotion. Hope you enjoy!",
+    "roles": ["SPECIAL THANKS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@alanbecker"},
+      {"x": "https://x.com/alanthebecker"}
+    ]
+  },
+  "Dj Welch": {
+    "pfp": "https://yt3.googleusercontent.com/ytc/AIdro_lsw7FtOTx_WbEhdK8B4BV3cnBBvU4NN2n_QLjMofgeXg=s176-c-k-c0x00ffffff-no-rj",
+    "description": "Heya! My name is DJ, from Animators vs Game and a Boxer in Creator Calsh Gen 1. I'm a Concept Artist for companies like Lucasfilm and Cartoon Network working on things like Star Wars and Adventure Time. But when I'm not working on those, I'm creating Primoral Descent an animated show! I love anime, martial arts, intense story that gives you goosebump, and of course Werewolves!",
+    "roles": ["SPECIAL THANKS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@djwelchAvG"},
+      {"x": "https://x.com/DJWelchArt"}
+    ]
+  },
+  "skim": {
+    "pfp": "https://yt3.googleusercontent.com/4P7vKgCjD15jKgucY7lozLTMeoA9EAjgmmVs_Mx1_rg9OCvayUafZAPgF_DPlQYdjnfKc68o=s176-c-k-c0x00ffffff-no-rj",
+    "description": "it's me, skim. <br>sometimes I make an animation.",
+    "roles": ["SPECIAL THANKS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@its_me_skim"}
+    ]
+  },
+  "Scott Buckley": {
+    "pfp": "https://yt3.googleusercontent.com/ktGqhnmrguyh7JgxRoRxE-xPpT5cyL1KotDX5hnCbHS6NExy5AbCjSFGGQDCXgmsjapjlRAc=s176-c-k-c0x00ffffff-no-rj",
+    "description": "Cinematic Creative Commons music by Scott Buckley. Everyone has a story, and I have a library of my own cinematic original music - released under CC-BY 4.0 - to help you tell that story, in whatever format you tell it. Oh, and it's free - just as long as you credit me. <br>Find more music in my library over at scottbuckley.com.au/library.",
+    "roles": ["SPECIAL THANKS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@ScottBuckley"}
+    ]
+  },
+  "Atzner": {
+    "pfp": "https://cdn.discordapp.com/avatars/729412061355835543/5714ccfcdee4266ec1cdf1a6e3ef12c8?size=1024",
+    "description": "Nah, I'd win",
+    "roles": ["FORMER DEVS"],
+    "links": []
+  },
+  "LeGoldenBoots": {
+    "pfp": "https://legoldenboots.carrd.co/assets/images/image01.jpg?v=4d4dc51c",
+    "description": "heya, im legoldenboots.",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"website": "https://legoldenboots.carrd.co"}
+    ]
+  },
+  "Daninnocent": {
+    "pfp": "https://pbs.twimg.com/profile_images/1738187247877521408/k-Zm73t__400x400.jpg",
+    "description": "I hyperfixate on random stuff mostly max payne tho | i can code sometimes ig | Minor (15)",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"x": "https://x.com/Daninnocent_"}
+    ]
+  },
+  "John Daily": {
+    "pfp": "https://yt3.googleusercontent.com/89_B7B1701MARm6zm0ATdbpA1XGheaz2yOd_Ebt32JKVZfSAxx4piLQF3M9YMVqv2ylZNVrHDRo=s176-c-k-c0x00ffffff-no-rj",
+    "description": "Making FNF Mods. (Charter)",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/channel/UCodLS1PxWyQguqoHEWNPcYw"}
+    ]
+  },
+  "CancerPenguin2.0": {
+    "pfp": "https://pbs.twimg.com/profile_images/1542865928706211840/MJ3v-WDS_400x400.jpg",
+    "description": "Just a FNF charter.",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"x": "https://x.com/SkeletoaSans"}
+    ]
+  },
+  "PeaceHacker": {
+    "pfp": "",
+    "description": "I'm going to hack World Peace and make it Chaos (not really)*",
+    "roles": ["FORMER DEVS"],
+    "links": []
+  },
+  "Reginald Reborn": {
+    "pfp": "https://yt3.googleusercontent.com/8ix9Vax7TP_BAvYko7BQ4FtQLupfmGg6yqxq9EAX6ybxuM0sYWhRrMIjVjNpMpnkH8pYBDmgnis=s176-c-k-c0x00ffffff-no-rj",
+    "description": "hi <br>idk what to put here",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/channel/UCEqHSAUTzOAssJe8j4ZI3iw"}
+    ]
+  },
+  "PhobiaDarei": {
+    "pfp": "https://pbs.twimg.com/profile_images/1726331603792601088/iNI_pC48_400x400.jpg",
+    "description": "☆Daria/Darei☆<br>☆15☆<br>☆He/Him☆<br>☆I just live life 🤷☆",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"x": "https://x.com/PhobiaDarei"}
+    ]
+  },
+  "Ekical": {
+    "pfp": "https://yt3.googleusercontent.com/1iSB7U1wotk8nb4IW237f__wX-85a_7vTUVa72KkjvmNd2HfSecyBkjiJbUtCXMo6HAgebYQrg=s176-c-k-c0x00ffffff-no-rj",
+    "description": "i make stuff. 🇷🇴",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/c/Ekical"}
+    ]
+  },
+  "Tiburones": {
+    "pfp": "https://yt3.googleusercontent.com/hdAsCkkOk1ZHk0rA_shJ83Hisi6DLBrXhildtkATxkqNxep1GkFutO3HIApB_w1oWYQGpwPvFw=s176-c-k-c0x00ffffff-no-rj",
+    "description": "Twinkle of Contagion is a Passive Item added in the Spitshine update. <br>Flavor text: 'Take the Shot' <br>Item Pool: Treasure, Drug Dealer <br>Quality: 2 <br>Item Tags: Syringe, Summonable, Offensive'",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/channel/UCuJM5h8kgRHyFNg56LsOjNw"}
+    ]
+  },
+  "Tostitos": {
+    "pfp": "https://pbs.twimg.com/profile_images/1710349904395087872/KXpet2T8_400x400.jpg",
+    "description": "just a normal artist and animator",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"x": "https://x.com/Toorynooo"}
+    ]
+  },
+  "Haylow": {
+    "pfp": "https://yt3.googleusercontent.com/jyAmc35owtM6YyKfYfph-_glarKeuksKqGBbczTiWArJ2jANe2s5-g9wMRyZPAoZ_-AEcKZi=s176-c-k-c0x00ffffff-no-rj",
+    "description": "whats up doxxers",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@hayliuem"}
+    ]
+  },
+  "Az989": {
+    "pfp": "https://pbs.twimg.com/profile_images/1803704793631690753/LSku_z99_400x400.jpg",
+    "description": "Composed of a dream-like substance.",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"x": "https://x.com/Az989YT"}
+    ]
+  },
+  "Kixel": {
+    "pfp": "https://pbs.twimg.com/profile_images/1865742080871714816/tBp3tNMR_400x400.jpg",
+    "description": "play holy quintet 🙂",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"x": "https://x.com/KixelArt"}
+    ]
+  },
+  "SulfurAnimations": {
+    "pfp": "https://yt3.googleusercontent.com/rCCvyKWFwq1EDeg4oIYvkpxlinWk9PWGwHcte_X2AQzLgKXjdtrb-Un5Zl6Ef1NQ9uxh-nTWDik=s160-c-k-c0x00ffffff-no-rj",
+    "description": "Animations made by a silly :)",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/c/Saifyrooma2nd"}
+    ]
+  },
+  "Zeff": {
+    "pfp": "https://pbs.twimg.com/profile_images/1719798152067227649/LTNMUPTv_400x400.jpg",
+    "description": "16yo gay furry boyo, FNF modder and Indie gamedev",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"x": "https://x.com/MZeff111"}
+    ]
+  },
+  "ooum": {
+    "pfp": "https://yt3.googleusercontent.com/ladNu-Q0nfykeR8MoUHVpubeuxSFS9juareuh0nBqznsETrGtyD7A3Fpv81yeQWs7WVFwrp89g=s160-c-k-c0x00ffffff-no-rj",
+    "description": "asian, produce and draw (the u in my name is silent 🤫🤫🤫🤫🤫)",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"x": "https://x.com/ooum2024"}
+    ]
+  },
+  "Sp0re": {
+    "pfp": "https://pbs.twimg.com/profile_images/1753181805748887553/yNxRAtw5_400x400.jpg",
+    "description": "A musician who makes stupid little tunes <br>I LOVE HOLY QUINTET + HYMNS OF HALLOWNEST",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"x": "https://x.com/sp0reshroom"}
+    ]
+  },
+  "Idiotic Sugar": {
+    "pfp": "https://yt3.googleusercontent.com/Mkr7nxd3tQf2xgZbJ1hXhv_1zs7mDY7FqdVP_OwNNXaZ0PqTGGGrZZ54yuu0rdb0qPSqDwfui-Q=s176-c-k-c0x00ffffff-no-rj",
+    "description": "about me: <br>Artist/Music Artist <br>Mtf",
+    "roles": ["FORMER DEVS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/channel/UCvT7NQk_f401WzDZbQ-DidA"}
+    ]
+  },
+  "Egglo": {
+    "pfp": "https://m.gjcdn.net/user-avatar/200/5725369-4cqsuqwj-v4.webp",
+    "description": "I make stupid music <br>15 years of life",
+    "roles": ["FORMER DEVS"],
+    "links": []
+  },
+  "Kontashu": {
+    "pfp": "https://pbs.twimg.com/profile_images/1860031796148338688/IhN-kBQl_400x400.jpg",
+    "description": "d",
+    "roles": ["EMOTIONAL SUPPORT"],
+    "links": [
+      {"x": "https://x.com/kyntatsu_"}
+    ]
+  },
+  "Zhamp": {
+    "pfp": "https://pbs.twimg.com/profile_images/1829219410625650688/0STMjB5G_400x400.jpg",
+    "description": "collect my bear5",
+    "roles": ["CODERS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@ultrazhamp"},
+      {"x": "https://x.com/UltraZhamp"}
+    ]
+  },
+  "Ner0!": {
+    "pfp": "https://avatars.githubusercontent.com/u/93954547?v=4",
+    "description": "I need an asset of ░P░U░S░S░Y░I░N░B░I░O░",
+    "roles": ["CODERS"],
+    "links": [
+      {"x": "https://x.com/Ner0Wastak89959"}
+    ]
+  },
+  "Sakuroll": {
+    "pfp": "https://pbs.twimg.com/media/GfOM_2-WIAAw6OH.jpg",
+    "description": "#1 adam sandler fan",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/channel/UConw6l3RQ0ulyuIQ24ar6gA"},
+      {"x": "https://x.com/Sakuroll_"}
+    ]
+  },
+  "Anton Ekan": {
+    "pfp": "https://cdn.discordapp.com/avatars/357923983435497474/07b7287e74175a94bd77003e523e65cb?size=1024",
+    "description": "Some swedish kid. that’s about it",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@Ekan_Creations"},
+      {"x": "https://x.com/AntonEkan"}
+    ]
+  },
+  "ThatFatFunk": {
+    "pfp": "https://pbs.twimg.com/profile_images/1870666270812602368/w-bUvhWH_400x400.jpg",
+    "description": "16 | Music Producer of 5 years",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@ThatFatFunk"},
+      {"x": "https://x.com/ThatFatFunk"}
+    ]
+  },
+  "Jesús Viloria": {
+    "pfp": "https://pbs.twimg.com/profile_images/1861226649347297280/UCOCpbQi_400x400.jpg",
+    "description": "OLA | 🇻🇪",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"x": "https://x.com/OficialViloria"}
+    ]
+  },
+  "ModsFromMars": {
+    "pfp": "https://pbs.twimg.com/profile_images/1858174796187529216/9MEvIHGB_400x400.jpg",
+    "description": "Hi I'm Mars ! ! <br>Im an artist/animator and I love replicating styles <br>I make stuff sometimes",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"x": "https://x.com/modsfrommarss"}
+    ]
+  }
+}

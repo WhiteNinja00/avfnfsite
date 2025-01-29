@@ -85,17 +85,30 @@
       }
 
       fetch('./profiles.json').then((response) => response.json()).then((json) => {
-        for(var i=0; i < json.length; i++) {
-          if(json[i].user == getParameterByName('name')) {
-            document.getElementById('name').innerHTML = json[i].name;
-            document.getElementById('pfp').src = json[i].pfp;
-            document.getElementById('description').innerHTML = json[i].description;
-            for(var x=0; i > -1; x++) {
-              $("section#links").prepend('<a class="link" href="'+json[i].links[x].url+'"><img src="'+json[i].links[x].img+'"></img></a>');
+        var userproperties = json[getParameterByName('name')];
+        document.getElementById('name').innerHTML = getParameterByName('name');
+        document.getElementById('pfp').src = userproperties.pfp;
+        document.getElementById('description').innerHTML = userproperties.description;
+        userproperties.links.forEach(link => {
+          for (let key in link) {
+            if (link.hasOwnProperty(key)) {
+              let imgSrc = '';
+              switch (key) {
+                case 'youtube':
+                  imgSrc = 'images/youtube.webp';
+                  break;
+                case 'x':
+                  imgSrc = 'images/x.webp';
+                  break;
+                case 'website':
+                  imgSrc = 'images/website.webp';
+                  break;
+              }
+              $("section#links").prepend('<a class="link" href="' + link[key] + '" target="_blank"><img src="' + imgSrc + '" alt="' + key + '"></img></a>');
             }
           }
-        }
-      })
+        });
+      });
     </script>
   </body>
 </html>
