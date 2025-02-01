@@ -145,7 +145,7 @@
     "blogname": "jace",
     "pfp": "https://i1.sndcdn.com/avatars-yvXZDkGewUJsunSJ-ThY9jQ-t1080x1080.jpg",
     "description": "always pray to god.",
-    "roles": ["DIRECTORS", "MUSICIANS"],
+    "roles": ["DIRECTORS", "MUSICIANS", "CODERS"],
     "links": [
       {"youtube": "https://www.youtube.com/@JaceLOL_"},
       {"x": "https://x.com/JaceLOL_Real"}
@@ -365,7 +365,7 @@
     ]
   },
   "Atzner": {
-    "pfp": "https://cdn.discordapp.com/avatars/729412061355835543/5714ccfcdee4266ec1cdf1a6e3ef12c8?size=1024",
+    "pfp": "https://avfnf.whiteninja00.com/images/defaultpfp.webp",
     "description": "Nah, I'd win",
     "roles": ["FORMER DEVS"],
     "links": []
@@ -403,7 +403,7 @@
     ]
   },
   "PeaceHacker": {
-    "pfp": "https://tineye.com/api/v1/query/7c44546a6b2ee02101857b6d3289271b3b7417fb?size=160",
+    "pfp": "https://avfnf.whiteninja00.com/images/defaultpfp.webp",
     "description": "I'm going to hack World Peace and make it Chaos (not really)*",
     "roles": ["FORMER DEVS"],
     "links": []
@@ -449,7 +449,7 @@
     ]
   },
   "Haylow": {
-    "pfp": "https://tineye.com/api/v1/query/7c44546a6b2ee02101857b6d3289271b3b7417fb?size=160",
+    "pfp": "https://avfnf.whiteninja00.com/images/defaultpfp.webp",
     "description": "whats up doxxers",
     "roles": ["FORMER DEVS"],
     "links": []
