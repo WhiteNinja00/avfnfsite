@@ -161,7 +161,7 @@
     ]
   },
   "Alberton": {
-    "pfp": "https://yt3.googleusercontent.com/G8eltNYCdtRuNShaCFqjuCaHjiujQc3m1RA6fAkx_wDQZzhLrm-38ZJUEKQp2HOjzY2pmQ-yOw=s176-c-k-c0x00ffffff-no-rj",
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/Alberton.webp",
     "description": "I like smashing balls",
     "roles": ["MUSICIANS"],
     "links": [
@@ -261,7 +261,7 @@
     ]
   },
   "Claire": {
-    "pfp": "https://pbs.twimg.com/profile_images/1853866459870461952/zLDTsNGU_400x400.jpg",
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/Claire.webp",
     "description": "i love alan becker content i Love this mod it's so cool i love all of it <br>also i'm gay",
     "roles": ["CODERS", "ARTISTS/ANIMATORS"],
     "links": [
@@ -365,7 +365,7 @@
     ]
   },
   "Atzner": {
-    "pfp": "https://avfnf.whiteninja00.com/images/defaultpfp.webp",
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/defaultpfp.webp",
     "description": "Nah, I'd win",
     "roles": ["FORMER DEVS"],
     "links": []
@@ -403,13 +403,13 @@
     ]
   },
   "PeaceHacker": {
-    "pfp": "https://avfnf.whiteninja00.com/images/defaultpfp.webp",
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/defaultpfp.webp",
     "description": "I'm going to hack World Peace and make it Chaos (not really)*",
     "roles": ["FORMER DEVS"],
     "links": []
   },
   "Reginald Reborn": {
-    "pfp": "https://yt3.googleusercontent.com/8ix9Vax7TP_BAvYko7BQ4FtQLupfmGg6yqxq9EAX6ybxuM0sYWhRrMIjVjNpMpnkH8pYBDmgnis=s176-c-k-c0x00ffffff-no-rj",
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/Reg.webp",
     "description": "hi <br>idk what to put here",
     "roles": ["FORMER DEVS"],
     "links": [
@@ -449,7 +449,7 @@
     ]
   },
   "Haylow": {
-    "pfp": "https://avfnf.whiteninja00.com/images/defaultpfp.webp",
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/defaultpfp.webp",
     "description": "whats up doxxers",
     "roles": ["FORMER DEVS"],
     "links": []
@@ -487,7 +487,7 @@
     ]
   },
   "ooum": {
-    "pfp": "https://yt3.googleusercontent.com/ladNu-Q0nfykeR8MoUHVpubeuxSFS9juareuh0nBqznsETrGtyD7A3Fpv81yeQWs7WVFwrp89g=s160-c-k-c0x00ffffff-no-rj",
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/Ooum.webp",
     "description": "asian, produce and draw (the u in my name is silent 🤫🤫🤫🤫🤫)",
     "roles": ["FORMER DEVS"],
     "links": [
@@ -503,7 +503,7 @@
     ]
   },
   "Idiotic Sugar": {
-    "pfp": "https://yt3.googleusercontent.com/Mkr7nxd3tQf2xgZbJ1hXhv_1zs7mDY7FqdVP_OwNNXaZ0PqTGGGrZZ54yuu0rdb0qPSqDwfui-Q=s176-c-k-c0x00ffffff-no-rj",
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/sugar.webp",
     "description": "about me: <br>Artist/Music Artist <br>Mtf",
     "roles": ["FORMER DEVS"],
     "links": [
@@ -551,7 +551,7 @@
     ]
   },
   "Anton Ekan": {
-    "pfp": "https://cdn.discordapp.com/avatars/357923983435497474/07b7287e74175a94bd77003e523e65cb?size=1024",
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/Anton.webp",
     "description": "Some swedish kid. that’s about it",
     "roles": ["ARTISTS/ANIMATORS"],
     "links": [
@@ -560,7 +560,7 @@
     ]
   },
   "ThatFatFunk": {
-    "pfp": "https://pbs.twimg.com/profile_images/1875970625493258240/RCD-CDkc_400x400.jpg",
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/FatFunk.webp",
     "description": "16 | Music Producer of 5 years",
     "roles": ["ARTISTS/ANIMATORS"],
     "links": [
@@ -568,8 +568,8 @@
       {"x": "https://x.com/ThatFatFunk"}
     ]
   },
-  "Jesús Viloria": {
-    "pfp": "https://pbs.twimg.com/profile_images/1861226649347297280/UCOCpbQi_400x400.jpg",
+  "Jesus Viloria": {
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/Jesus.webp",
     "description": "OLA | 🇻🇪",
     "roles": ["ARTISTS/ANIMATORS"],
     "links": [
@@ -582,6 +582,14 @@
     "roles": ["ARTISTS/ANIMATORS"],
     "links": [
       {"x": "https://x.com/modsfrommarss"}
+    ]
+  },
+  "Spikeish": {
+    "pfp": "https://pbs.twimg.com/profile_images/1880815224300634112/-s_fwr-7_400x400.jpg",
+    "description": "music producer of 4 years<br>rose-date-flirt-boyfriend-gentleman.gif",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"x": "https://x.com/spikeish_"}
     ]
   }
 }
