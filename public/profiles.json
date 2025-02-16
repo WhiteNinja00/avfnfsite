@@ -83,7 +83,7 @@
     ]
   },
   "Surge SPB": {
-    "pfp": "https://yt3.googleusercontent.com/Ji5VsK4GMUcHHAkhX_Zbk0mVnxCiAR9wQlhgOZJ10T7kOuOdwP8wNB7rpbpF8_2xf2XTxXUpIA=s160-c-k-c0x00ffffff-no-rj",
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/Surge.webp",
     "description": "Producer, I make what I feel like, expect a lot of Breakcore and Hardstyle mixed with some other random things. <br>I only make FNF songs for and with close friends, so expect less of that. <br>If you'd like to contact me, here is my Discord: @surgespb",
     "roles": ["MUSICIANS"],
     "links": [
@@ -425,7 +425,7 @@
     ]
   },
   "Ekical": {
-    "pfp": "https://yt3.googleusercontent.com/1iSB7U1wotk8nb4IW237f__wX-85a_7vTUVa72KkjvmNd2HfSecyBkjiJbUtCXMo6HAgebYQrg=s176-c-k-c0x00ffffff-no-rj",
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/Ekical.webp",
     "description": "i make stuff. 🇷🇴",
     "roles": ["FORMER DEVS"],
     "links": [
@@ -590,6 +590,94 @@
     "roles": ["MUSICIANS"],
     "links": [
       {"x": "https://x.com/spikeish_"}
+    ]
+  },
+  "Legogodzilla": {
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/Lego.webp",
+    "description": "VGM Composer<br>He/Him - 18 y/o<br>FNF Modder (Tabi, BFDI 26, SHS)",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"x": "https://x.com/Legogodzilla702"}
+    ]
+  },
+  "Sas Original": {
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/Sas.webp",
+    "description": "FNF Composer and Charter<br>Not working on mods i dont like",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"x": "https://x.com/SasOrig1nal"}
+    ]
+  },
+  "Scent": {
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/scent.webp",
+    "description": "everywhere but also nowhere || 16",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"x": "https://x.com/TheRealScent"}
+    ]
+  },
+  "lunarecl7": {
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/lunar.webp",
+    "description": "a person",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"x": "https://x.com/lunarecl7"}
+    ]
+  },
+  "TheOnlyVolume": {
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/only.webp",
+    "description": "Nobody needs to know.",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"x": "https://x.com/theonlyvolume"}
+    ]
+  },
+  "Nocticola": {
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/nocti.webp",
+    "description": "🇰🇷 (17)<br>1 Year of Music Experience",
+    "roles": ["MUSICIANS", "CHARTERS"],
+    "links": [
+      {"x": "https://x.com/ChucksterTL"}
+    ]
+  },
+  "Aiden Does Stuff": {
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/aiden.webp",
+    "description": "🇰🇷 (17)<br>1 Year of Music Experience",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"x": "https://x.com/AidenDoesStuff1"}
+    ]
+  },
+  "Cadu Thoons": {
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/cadu.webp",
+    "description": "🇰🇷 (17)<br>1 Year of Music Experience",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"x": "https://x.com/PRCaduz"}
+    ]
+  },
+  "ABrickToTheHead": {
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/brick.webp",
+    "description": "🇰🇷 (17)<br>1 Year of Music Experience",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"x": "https://x.com/ABrickToTheHead", "yt": "https://www.youtube.com/@CaduThoons"}
+    ]
+  },
+  "Kornelbut": {
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/korn.webp",
+    "description": "🇰🇷 (17)<br>1 Year of Music Experience",
+    "roles": ["CODERS"],
+    "links": [
+      {"x": "https://x.com/kornelbut"}
+    ]
+  },
+  "Willzinhu": {
+    "pfp": "https://avfnf.whiteninja00.com/images/pfps/will.webp",
+    "description": "🇰🇷 (17)<br>1 Year of Music Experience",
+    "roles": ["CODERS"],
+    "links": [
+      {"x": "https://x.com/wilzey13lol"}
     ]
   }
 }
