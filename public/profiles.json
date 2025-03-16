@@ -13,7 +13,7 @@
     "blogname": "noogai",
     "pfp": "https://pbs.twimg.com/profile_images/1723531601228009472/EYBoo70G_400x400.jpg",
     "description": "Hi guys im noogai9876 im kayla's fellow director and i did a ton of sprite art, cutscenes and song events for the mod. Hope you enjoy! <br>I'm TCO week 1",
-    "roles": ["DIRECTORS", "CHARTERS", "ARTISTS/ANIMATORS"],
+    "roles": ["DIRECTORS", "CHARTERS", "ARTISTS/ANIMATORS", "MUSICIANS"],
     "links": [
       {"youtube": "https://www.youtube.com/@noogai9876"},
       {"x": "https://x.com/noogai9876"}
@@ -65,7 +65,7 @@
     ]
   },
   "MijaeLio": {
-    "pfp": "https://pbs.twimg.com/profile_images/1443682375049826308/Ae7lXgoT_400x400.jpg",
+    "pfp": "images/pfps/mijae.webp",
     "description": "🇵🇪",
     "roles": ["CODERS"],
     "links": [
@@ -91,7 +91,7 @@
     ]
   },
   "The Lost Gamer": {
-    "pfp": "https://yt3.googleusercontent.com/qo_AtMHwXiiruOPCqDtWxlZwW4Ll0hg8Zx9lfCXDe5AvM_ev3yriKOoaGdBECyvw4Qfb6cMnbZQ=s176-c-k-c0x00ffffff-no-rj",
+    "pfp": "images/pfps/lost.webp",
     "description": "▪︎ Romanian <br>▪︎ Composer",
     "roles": ["FORMER DEVS"],
     "links": [
@@ -315,7 +315,7 @@
     ]
   },
   "syrupwaf": {
-    "pfp": "https://pbs.twimg.com/profile_images/1878196341043519488/bB7Y7nkL_400x400.png",
+    "pfp": "images/pfps/syrup.webp",
     "description": "Hello Vro 💙",
     "roles": ["CHARTERS"],
     "links": [
@@ -371,7 +371,7 @@
     "links": []
   },
   "LeGoldenBoots": {
-    "pfp": "https://legoldenboots.carrd.co/assets/images/image01.jpg?v=4d4dc51c",
+    "pfp": "images/pfps/legolden.webp",
     "description": "heya, im legoldenboots.",
     "roles": ["FORMER DEVS"],
     "links": [
@@ -387,7 +387,7 @@
     ]
   },
   "John Daily": {
-    "pfp": "https://yt3.googleusercontent.com/89_B7B1701MARm6zm0ATdbpA1XGheaz2yOd_Ebt32JKVZfSAxx4piLQF3M9YMVqv2ylZNVrHDRo=s176-c-k-c0x00ffffff-no-rj",
+    "pfp": "images/pfps/john.webp",
     "description": "Making FNF Mods. (Charter)",
     "roles": ["FORMER DEVS"],
     "links": [
@@ -666,7 +666,7 @@
   },
   "Kornelbut": {
     "pfp": "images/pfps/korn.webp",
-    "description": "animates in pivot and codes random shit sometimes maybe",
+    "description": "play mario & luigi paper jam",
     "roles": ["CODERS"],
     "links": [
       {"x": "https://x.com/kornelbut"}
@@ -686,6 +686,22 @@
     "roles": ["ARTISTS/ANIMATORS"],
     "links": [
       {"x": "https://x.com/AnimatesFlare"}
+    ]
+  },
+  "Rareblin": {
+    "pfp": "images/pfps/rarebl.webp",
+    "description": "a person",
+    "roles": ["MUSICIANS"],
+    "links": [
+      {"x": "https://x.com/uncommonblin"}
+    ]
+  },
+  "IvanNRG": {
+    "pfp": "images/pfps/ivan.webp",
+    "description": "art",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"x": "https://x.com/_ivan_nrg_"}
     ]
   }
 }
