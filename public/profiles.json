@@ -585,7 +585,7 @@
     ]
   },
   "Spikeish": {
-    "pfp": "https://pbs.twimg.com/profile_images/1880815224300634112/-s_fwr-7_400x400.jpg",
+    "pfp": "images/pfps/Spike.webp",
     "description": "music producer of 4 years<br>rose-date-flirt-boyfriend-gentleman.gif",
     "roles": ["MUSICIANS"],
     "links": [
@@ -700,6 +700,14 @@
     "pfp": "images/pfps/ivan.webp",
     "description": "art",
     "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"x": "https://x.com/_ivan_nrg_"}
+    ]
+  },
+  "Livy": {
+    "pfp": "images/pfps/livy.webp",
+    "description": "i think im mali or Livvy idk ",
+    "roles": ["MUSICIANS"],
     "links": [
       {"x": "https://x.com/_ivan_nrg_"}
     ]
