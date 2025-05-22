@@ -11,7 +11,7 @@
   },
   "noogai9876": {
     "blogname": "noogai",
-    "pfp": "https://pbs.twimg.com/profile_images/1723531601228009472/EYBoo70G_400x400.jpg",
+    "pfp": "images/pfps/noogai.webp",
     "description": "Hi guys im noogai9876 im kayla's fellow director and i did a ton of sprite art, cutscenes and song events for the mod. Hope you enjoy! <br>I'm TCO week 1",
     "roles": ["DIRECTORS", "CHARTERS", "ARTISTS/ANIMATORS", "MUSICIANS"],
     "links": [
@@ -21,7 +21,7 @@
   },
   "HeyItsKayla": {
     "blogname": "kayla",
-    "pfp": "https://pbs.twimg.com/profile_images/1855002576132997120/-1iNAudD_400x400.jpg",
+    "pfp": "images/pfps/kayla.webp",
     "description": "hi guys!! im kayla!! ive been directing this mod for over a year & i might just pass out & die bcuz of it!! hope u guys enjoy the mod :)",
     "roles": ["DIRECTORS", "MUSICIANS", "ARTISTS/ANIMATORS"],
     "links": [
@@ -32,7 +32,7 @@
   "Atomixx": {
     "pfp": "https://pbs.twimg.com/profile_images/1735149689241030656/H6ePYI-x_400x400.jpg",
     "description": "mocha frappe",
-    "roles": ["CO-DIRECTORS", "MUSICIANS"],
+    "roles": ["FORMER DEVS"],
     "links": [
       {"youtube": "https://www.youtube.com/@imjustatomixx"},
       {"x": "https://x.com/imjustatomixx"}
@@ -143,7 +143,7 @@
   },
   "JaceLOL": {
     "blogname": "jace",
-    "pfp": "https://i1.sndcdn.com/avatars-yvXZDkGewUJsunSJ-ThY9jQ-t1080x1080.jpg",
+    "pfp": "images/pfps/jace.webp",
     "description": "always pray to god.",
     "roles": ["DIRECTORS", "MUSICIANS", "CODERS"],
     "links": [
@@ -417,7 +417,7 @@
     ]
   },
   "PhobiaDarei": {
-    "pfp": "https://pbs.twimg.com/profile_images/1726331603792601088/iNI_pC48_400x400.jpg",
+    "pfp": "images/pfps/darei.webp",
     "description": "☆Daria/Darei☆<br>☆15☆<br>☆He/Him☆<br>☆I just live life 🤷☆",
     "roles": ["FORMER DEVS"],
     "links": [
@@ -577,7 +577,7 @@
     ]
   },
   "ModsFromMars": {
-    "pfp": "https://pbs.twimg.com/profile_images/1858174796187529216/9MEvIHGB_400x400.jpg",
+    "pfp": "images/pfps/mars.webp",
     "description": "Hi I'm Mars ! ! <br>Im an artist/animator and I love replicating styles <br>I make stuff sometimes",
     "roles": ["ARTISTS/ANIMATORS"],
     "links": [
@@ -672,22 +672,6 @@
       {"x": "https://x.com/kornelbut"}
     ]
   },
-  "Willzinhu": {
-    "pfp": "images/pfps/will.webp",
-    "description": "Coder, Artist, Composer, and Charter!",
-    "roles": ["CODERS"],
-    "links": [
-      {"x": "https://x.com/wilzey13lol"}
-    ]
-  },
-  "wrptoonz": {
-    "pfp": "images/pfps/wrp.webp",
-    "description": "he/him i own and direct internet oddities",
-    "roles": ["ARTISTS/ANIMATORS"],
-    "links": [
-      {"x": "https://x.com/AnimatesFlare"}
-    ]
-  },
   "Rareblin": {
     "pfp": "images/pfps/rarebl.webp",
     "description": "a person",
@@ -704,12 +688,12 @@
       {"x": "https://x.com/_ivan_nrg_"}
     ]
   },
-  "Livy": {
+  "Mali": {
     "pfp": "images/pfps/livy.webp",
-    "description": "i think im mali or Livvy idk ",
+    "description": "i think im mali idk ",
     "roles": ["MUSICIANS"],
     "links": [
-      {"x": "https://x.com/_ivan_nrg_"}
+      {"x": "https://x.com/Maliiiiiiiii_"}
     ]
   },
   "benniebo0": {
@@ -725,7 +709,7 @@
     "description": "i think im mali or Livvy idk ",
     "roles": ["ARTISTS/ANIMATORS"],
     "links": [
-      {"x": "https://x.com/_ivan_nrg_"}
+      {"x": "https://x.com/J735Official"}
     ]
   }
 }
