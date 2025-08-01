@@ -1,7 +1,7 @@
 {
   "Sir Chapurato": {
     "blogname": "chap",
-    "pfp": "https://pbs.twimg.com/profile_images/1860703088996401152/7UDojaer_400x400.jpg",
+    "pfp": "images/pfps/chap.webp",
     "description": "it's me chapurato I'm back I was the first director on this mod and I chart stuff 😁",
     "roles": ["DIRECTORS", "CHARTERS"],
     "links": [
@@ -29,6 +29,16 @@
       {"x": "https://x.com/heyitsmekayla__"}
     ]
   },
+    "JaceLOL": {
+    "blogname": "jace",
+    "pfp": "images/pfps/jace.webp",
+    "description": "always pray to god.",
+    "roles": ["DIRECTORS", "MUSICIANS", "CODERS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/@JaceLOL_"},
+      {"x": "https://x.com/JaceLOL_Real"}
+    ]
+  },
   "Atomixx": {
     "pfp": "https://pbs.twimg.com/profile_images/1735149689241030656/H6ePYI-x_400x400.jpg",
     "description": "mocha frappe",
@@ -48,7 +58,7 @@
     ]
   },
   "Serkoid": {
-    "pfp": "https://pbs.twimg.com/profile_images/1548261276329029633/5Xgfv6Q2_400x400.jpg",
+    "pfp": "images/pfps/serkoid.webp",
     "description": "I make stuff",
     "roles": ["CO-DIRECTORS", "ARTISTS/ANIMATORS"],
     "links": [
@@ -139,16 +149,6 @@
     "roles": ["MUSICIANS"],
     "links": [
       {"x": "https://x.com/_SicOn_"}
-    ]
-  },
-  "JaceLOL": {
-    "blogname": "jace",
-    "pfp": "images/pfps/jace.webp",
-    "description": "always pray to god.",
-    "roles": ["DIRECTORS", "MUSICIANS", "CODERS"],
-    "links": [
-      {"youtube": "https://www.youtube.com/@JaceLOL_"},
-      {"x": "https://x.com/JaceLOL_Real"}
     ]
   },
   "Vaderlings": {
@@ -307,7 +307,7 @@
     ]
   },
   "Golden": {
-    "pfp": "https://pbs.twimg.com/profile_images/1872800745256312832/qWGSyLOA_400x400.jpg",
+    "pfp": "images/pfps/golden.webp",
     "description": "BTW MR SQUIDWARD GIMME SOME TASTY DIRT I WANNA EAT YOU NEVER PAY MY JANITOR WORK GRRR DIE DIE DIE DIE DIE!",
     "roles": ["CHARTERS"],
     "links": [
@@ -395,7 +395,7 @@
     ]
   },
   "CancerPenguin2.0": {
-    "pfp": "https://pbs.twimg.com/profile_images/1542865928706211840/MJ3v-WDS_400x400.jpg",
+    "pfp": "images/pfps/cancerpeng.webp",
     "description": "Just a FNF charter.",
     "roles": ["FORMER DEVS"],
     "links": [
@@ -608,12 +608,12 @@
       {"x": "https://x.com/SasOrig1nal"}
     ]
   },
-  "Scent": {
+  "chozen": {
     "pfp": "images/pfps/scent.webp",
     "description": "everywhere but also nowhere || 16",
     "roles": ["MUSICIANS"],
     "links": [
-      {"x": "https://x.com/TheRealScent"}
+      {"x": "https://x.com/chozenxmusic"}
     ]
   },
   "platinumaward": {
@@ -656,14 +656,6 @@
       {"x": "https://x.com/PRCaduz"}
     ]
   },
-  "ABrickToTheHead": {
-    "pfp": "images/pfps/brick.webp",
-    "description": "A little stupid but they say ignorance is bliss",
-    "roles": ["ARTISTS/ANIMATORS"],
-    "links": [
-      {"x": "https://x.com/ABrickToTheHead", "yt": "https://www.youtube.com/@CaduThoons"}
-    ]
-  },
   "Kornelbut": {
     "pfp": "images/pfps/korn.webp",
     "description": "play mario & luigi paper jam",
@@ -680,25 +672,25 @@
       {"x": "https://x.com/uncommonblin"}
     ]
   },
-  "IvanNRG": {
-    "pfp": "images/pfps/ivan.webp",
-    "description": "art",
+  "Swiffzz": {
+    "pfp": "images/pfps/swiffzz.webp",
+    "description": "Im black 😱| I do art and make fnf mods | discord: Swiffzz#7701 | youtube: Swiffzz | I’ll help with art related things just dm | that’s ab it ",
     "roles": ["ARTISTS/ANIMATORS"],
     "links": [
-      {"x": "https://x.com/_ivan_nrg_"}
+      {"x": "https://x.com/Swiffzz"}
     ]
   },
-  "Mali": {
+  "d4xiemusik": {
     "pfp": "images/pfps/livy.webp",
-    "description": "i think im mali idk ",
+    "description": "- daxie or mali - 15 - musician (2 years of experience) any pronouns - black",
     "roles": ["MUSICIANS"],
     "links": [
-      {"x": "https://x.com/Maliiiiiiiii_"}
+      {"x": "https://x.com/daxiemusikk"}
     ]
   },
   "benniebo0": {
     "pfp": "images/pfps/ben.webp",
-    "description": "artist ig\npfp by soooooOoph",
+    "description": "artist ig",
     "roles": ["ARTISTS/ANIMATORS"],
     "links": [
       {"x": "https://x.com/benniebo0"}
@@ -706,10 +698,18 @@
   },
   "J735": {
     "pfp": "images/pfps/J735.webp",
-    "description": "i think im mali or Livvy idk ",
+    "description": "i am an unknown creator in GD, do livestreams every once in a while, and i animate things. i post what i like and strive for happiness and originality!",
     "roles": ["ARTISTS/ANIMATORS"],
     "links": [
       {"x": "https://x.com/J735Official"}
+    ]
+  },
+   "solar": {
+    "pfp": "images/pfps/solar.webp",
+    "description": "16, CST, Punch Punch Funkin Director, Contributor for P:AFN & PF, Black",
+    "roles": ["CHARTERS"],
+    "links": [
+      {"x": "https://x.com/resurrectsolar"}
     ]
   }
 }
