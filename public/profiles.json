@@ -9,8 +9,8 @@
       {"x": "https://x.com/SirChapurato"}
     ]
   },
-  "noogai9876": {
-    "blogname": "noogai",
+  "noogurt": {
+    "blogname": "noogurt",
     "pfp": "images/pfps/noogai.webp",
     "description": "Hi guys im noogai9876 im kayla's fellow director and i did a ton of sprite art, cutscenes and song events for the mod. Hope you enjoy! <br>I'm TCO week 1",
     "roles": ["DIRECTORS", "CHARTERS", "ARTISTS/ANIMATORS", "MUSICIANS"],
@@ -19,14 +19,14 @@
       {"x": "https://x.com/noogai9876"}
     ]
   },
-  "HeyItsKayla": {
+  "Kayla/Lucid": {
     "blogname": "kayla",
     "pfp": "images/pfps/kayla.webp",
     "description": "hi guys!! im kayla!! ive been directing this mod for over a year & i might just pass out & die bcuz of it!! hope u guys enjoy the mod :)",
     "roles": ["DIRECTORS", "MUSICIANS", "ARTISTS/ANIMATORS"],
     "links": [
       {"youtube": "https://www.youtube.com/@swoleboiproductions"},
-      {"x": "https://x.com/heyitsmekayla__"}
+      {"x": "https://www.youtube.com/@heyitskaylareal"}
     ]
   },
     "JaceLOL": {
@@ -42,7 +42,7 @@
   "Atomixx": {
     "pfp": "https://pbs.twimg.com/profile_images/1735149689241030656/H6ePYI-x_400x400.jpg",
     "description": "mocha frappe",
-    "roles": ["FORMER DEVS"],
+    "roles": ["CO-DIRECTORS", "MUSICIANS", "ARTISTS/ANIMATORS"],
     "links": [
       {"youtube": "https://www.youtube.com/@imjustatomixx"},
       {"x": "https://x.com/imjustatomixx"}
@@ -275,7 +275,7 @@
     "links": []
   },
   "Primpink": {
-    "pfp": "https://pbs.twimg.com/profile_images/1875268254723080192/1g8R3l6p_400x400.jpg",
+    "pfp": "images/pfps/prim.webp",
     "description": "👑 <br>🟣 IM 15 PROSHIPPERS DO NOT INTERACT!!!* <br>#1 PURPLE FAN FOR 3 YEARS (hes my husband)*",
     "roles": ["ARTISTS/ANIMATORS"],
     "links": [
@@ -299,7 +299,7 @@
     ]
   },
   "Boink": {
-    "pfp": "https://pbs.twimg.com/profile_images/1563036961967046659/h1-Uk_Xe_400x400.jpg",
+    "pfp": "images/pfps/boink.webp",
     "description": "MY NAM IS B OINK - helo i aninimat and chart stuiff,,, ( i cant drew)",
     "roles": ["CHARTERS"],
     "links": [
@@ -379,7 +379,7 @@
     ]
   },
   "Daninnocent": {
-    "pfp": "https://pbs.twimg.com/profile_images/1738187247877521408/k-Zm73t__400x400.jpg",
+    "pfp": "images/pfps/defaultpfp.webp",
     "description": "I hyperfixate on random stuff mostly max payne tho | i can code sometimes ig | Minor (15)",
     "roles": ["FORMER DEVS"],
     "links": [
@@ -433,7 +433,7 @@
     ]
   },
   "Tiburones": {
-    "pfp": "https://pbs.twimg.com/profile_images/1866849862374821889/2reUi8W0_400x400.jpg",
+    "pfp": "images/pfps/tibu.webp",
     "description": "Twinkle of Contagion is a Passive Item added in the Spitshine update. <br>Flavor text: 'Take the Shot' <br>Item Pool: Treasure, Drug Dealer <br>Quality: 2 <br>Item Tags: Syringe, Summonable, Offensive'",
     "roles": ["FORMER DEVS"],
     "links": [
@@ -455,7 +455,7 @@
     "links": []
   },
   "Az989": {
-    "pfp": "https://pbs.twimg.com/profile_images/1803704793631690753/LSku_z99_400x400.jpg",
+    "pfp": "images/pfps/defaultpfp.webp",
     "description": "Composed of a dream-like substance.",
     "roles": ["FORMER DEVS"],
     "links": [
@@ -530,7 +530,7 @@
     "roles": ["CODERS"],
     "links": [
       {"youtube": "https://www.youtube.com/@ultrazhamp"},
-      {"x": "https://x.com/UltraZhamp"}
+      {"x": "https://x.com/1zhampwich"}
     ]
   },
   "Ner0!": {
@@ -574,14 +574,6 @@
     "roles": ["ARTISTS/ANIMATORS"],
     "links": [
       {"x": "https://x.com/OficialViloria"}
-    ]
-  },
-  "ModsFromMars": {
-    "pfp": "images/pfps/mars.webp",
-    "description": "Hi I'm Mars ! ! <br>Im an artist/animator and I love replicating styles <br>I make stuff sometimes",
-    "roles": ["ARTISTS/ANIMATORS"],
-    "links": [
-      {"x": "https://x.com/modsfrommarss"}
     ]
   },
   "Spikeish": {
@@ -696,20 +688,42 @@
       {"x": "https://x.com/benniebo0"}
     ]
   },
-  "J735": {
-    "pfp": "images/pfps/J735.webp",
-    "description": "i am an unknown creator in GD, do livestreams every once in a while, and i animate things. i post what i like and strive for happiness and originality!",
-    "roles": ["ARTISTS/ANIMATORS"],
-    "links": [
-      {"x": "https://x.com/J735Official"}
-    ]
-  },
    "solar": {
     "pfp": "images/pfps/solar.webp",
     "description": "16, CST, Punch Punch Funkin Director, Contributor for P:AFN & PF, Black",
     "roles": ["CHARTERS"],
     "links": [
       {"x": "https://x.com/resurrectsolar"}
+    ]
+  },
+  "bug": {
+    "pfp": "images/pfps/bubpfp.webp",
+    "description": "I am bug.",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": []
+  },
+  "Hype Logy": {
+    "pfp": "images/pfps/hype logy.webp",
+    "description": "I am bug.",
+    "roles": ["CODERS"],
+    "links": [
+      {"x": "https://x.com/Hype_Logy"}
+    ]
+  },
+  "Wilczuurrr": {
+    "pfp":"images/pfps/wilc.webp",
+    "description": "Hi\nI'm Wilczuurrr, 17 years old animator.\nI animate Stickman Animations",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"youtube": "https://www.youtube.com/channel/UCv4q_9w5dqBl2rLW1zSc3WA"}
+    ]
+  },
+  "Wax": {
+    "pfp":"images/pfps/wax.webp",
+    "description": "Hi\nI'm Wilczuurrr, 17 years old animator.\nI animate Stickman Animations",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"x": "https://x.com/waxatak_"}
     ]
   }
 }
