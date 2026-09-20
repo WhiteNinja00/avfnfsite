@@ -39,22 +39,21 @@
       {"x": "https://x.com/JaceLOL_Real"}
     ]
   },
-  "Atomixx": {
-    "pfp": "https://pbs.twimg.com/profile_images/1735149689241030656/H6ePYI-x_400x400.jpg",
+  "Magnolia": {
+    "pfp": "https://pbs.twimg.com/profile_images/2028649134824071168/lDZWz7MV_400x400.jpg",
     "description": "mocha frappe",
     "roles": ["CO-DIRECTORS", "MUSICIANS", "ARTISTS/ANIMATORS"],
     "links": [
-      {"youtube": "https://www.youtube.com/@imjustatomixx"},
-      {"x": "https://x.com/imjustatomixx"}
+      {"youtube": "https://www.youtube.com/@Mqgnolia"},
+      {"x": "https://x.com/Mqgnoliaa_"}
     ]
   },
-  "Yes, It's Bee": {
-    "pfp": "https://pbs.twimg.com/profile_images/1861216338213249028/ankurfGG_400x400.jpg",
+  "evlynn.ivy": {
+    "pfp": "https://pbs.twimg.com/profile_images/2081257553267511296/FEq-Vsmc_400x400.jpg",
     "description": "Why do they call it Yes when you of in the Its food of out Bee eat the Yes?",
     "roles": ["CO-DIRECTORS", "MUSICIANS", "ARTISTS/ANIMATORS"],
     "links": [
-      {"youtube": "https://www.youtube.com/@YesItsbee"},
-      {"x": "https://x.com/yesitsbee1"}
+      {"x": "https://x.com/evlynn_ivy"}
     ]
   },
   "Serkoid": {
@@ -67,7 +66,7 @@
     ]
   },
   "whiteninja00": {
-    "pfp": "https://pbs.twimg.com/profile_images/1737937296282779648/-VTHxazG_400x400.jpg",
+    "pfp": "https://pbs.twimg.com/profile_images/2037565990603829248/fqdDu5jM_400x400.jpg",
     "description": "Hey guys! im the dude who made this cool website for yall <br>i coded a bunch of other stuff for avfnf",
     "roles": ["CODERS", "CHARTERS"],
     "links": [
@@ -108,19 +107,10 @@
       {"youtube": "https://www.youtube.com/@LostsStuff"}
     ]
   },
-  "longestsoloever": {
-    "pfp": "https://pbs.twimg.com/profile_images/1675145535748034562/cRjpvVrD_400x400.jpg",
-    "description": "Dean DiMarzo 🎸 Nerdcore / metal artist, He/Him",
-    "roles": ["MUSICIANS"],
-    "links": [
-      {"youtube": "https://www.youtube.com/@longestsoloever"},
-      {"x": "https://x.com/longestsoloever"}
-    ]
-  },
   "Top 10 Awesome": {
     "pfp": "https://pbs.twimg.com/profile_images/1509287747520978946/UL9dW3O9_400x400.jpg",
     "description": "a 10 top channel <br>Chop your own wood and it will warm you twice",
-    "roles": ["MUSICIANS"],
+    "roles": ["GUEST MUSICIANS"],
     "links": [
       {"youtube": "https://www.youtube.com/@Top10Awesome"},
       {"x": "https://x.com/top10awesome3"}
@@ -137,7 +127,7 @@
   "Lizzelpy": {
     "pfp": "https://pbs.twimg.com/profile_images/1868259143313731584/PGWN2FSe_400x400.jpg",
     "description": "i made a song",
-    "roles": ["MUSICIANS"],
+    "roles": ["GUEST MUSICIANS"],
     "links": [
       {"youtube": "https://www.youtube.com/@Hazelpy"},
       {"x": "https://x.com/lizzelpy"}
@@ -194,7 +184,7 @@
     ]
   },
   "Hexal": {
-    "pfp": "https://pbs.twimg.com/profile_images/1647411185762062336/u85wpCAc_400x400.jpg",
+    "pfp": "https://pbs.twimg.com/profile_images/2065832582886129665/9nZIbaOA_400x400.jpg",
     "description": "Helo im animate",
     "roles": ["ARTISTS/ANIMATORS"],
     "links": [
@@ -253,15 +243,15 @@
     ]
   },
   "Scifi": {
-    "pfp": "https://pbs.twimg.com/profile_images/1837740001083244544/otU19lgs_400x400.jpg",
+    "pfp": "images/pfps/defaultpfp.webp",
     "description": "I do not like skibidi toilet but I do like bacon and eggs maple flavored",
     "roles": ["ARTISTS/ANIMATORS"],
     "links": [
       {"x": "https://x.com/fianimationsyt"}
     ]
   },
-  "Claire": {
-    "pfp": "images/pfps/Claire.webp",
+  "Jade": {
+    "pfp": "https://pbs.twimg.com/profile_images/2015266206161231872/DdZIrtrV_400x400.jpg",
     "description": "i love alan becker content i Love this mod it's so cool i love all of it <br>also i'm gay",
     "roles": ["CODERS", "ARTISTS/ANIMATORS"],
     "links": [
@@ -463,7 +453,7 @@
     ]
   },
   "Kixel": {
-    "pfp": "https://pbs.twimg.com/profile_images/1865742080871714816/tBp3tNMR_400x400.jpg",
+    "pfp": "https://pbs.twimg.com/profile_images/2082381169497378816/oOFLYo7U_400x400.jpg",
     "description": "play holy quintet 🙂",
     "roles": ["FORMER DEVS"],
     "links": [
@@ -517,7 +507,7 @@
     "links": []
   },
   "Kontashu": {
-    "pfp": "https://pbs.twimg.com/profile_images/1874366363818426368/WAuWljwC_400x400.jpg",
+    "pfp": "images/pfps/defaultpfp.webp",
     "description": "d",
     "roles": ["EMOTIONAL SUPPORT"],
     "links": [
@@ -532,6 +522,12 @@
       {"youtube": "https://www.youtube.com/@ultrazhamp"},
       {"x": "https://x.com/1zhampwich"}
     ]
+  },
+  "syrup": {
+    "pfp": "https://avatars.fastly.steamstatic.com/bd01c630f9aafa4a4113a2b2b5237faca2255d80_full.jpg",
+    "description": "18<br>artist!! kind of",
+    "roles": ["CODERS"],
+    "links": []
   },
   "Ner0!": {
     "pfp": "https://avatars.githubusercontent.com/u/93954547?v=4",
@@ -570,17 +566,9 @@
   "Spikeish": {
     "pfp": "images/pfps/Spike.webp",
     "description": "music producer of 4 years<br>rose-date-flirt-boyfriend-gentleman.gif",
-    "roles": ["MUSICIANS"],
+    "roles": ["GUEST MUSICIANS"],
     "links": [
       {"x": "https://x.com/spikeish_"}
-    ]
-  },
-  "Legogodzilla": {
-    "pfp": "images/pfps/Lego.webp",
-    "description": "VGM Composer<br>He/Him - 18 y/o<br>FNF Modder (Tabi, BFDI 26, SHS)",
-    "roles": ["MUSICIANS"],
-    "links": [
-      {"x": "https://x.com/Legogodzilla702"}
     ]
   },
   "Sas Original": {
@@ -597,6 +585,14 @@
     "roles": ["MUSICIANS"],
     "links": [
       {"x": "https://x.com/chozenxmusic"}
+    ]
+  },
+  "SpaceDoughnut": {
+    "pfp": "https://pbs.twimg.com/profile_images/2082376817030332416/gxh_X_CN_400x400.jpg",
+    "description": "21yold | 2d animator, artist |<br>Animating: EoA| CF:BR | Alan Becker |",
+    "roles": ["ARTISTS/ANIMATORS"],
+    "links": [
+      {"x": "https://x.com/doughnut102"}
     ]
   },
   "platinumaward": {
@@ -650,7 +646,7 @@
   "Rareblin": {
     "pfp": "images/pfps/rarebl.webp",
     "description": "a person",
-    "roles": ["MUSICIANS"],
+    "roles": ["GUEST MUSICIANS"],
     "links": [
       {"x": "https://x.com/uncommonblin"}
     ]
